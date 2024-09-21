@@ -1,0 +1,12 @@
+services:
+  fastapi:
+    container_name: fastapi-sever
+    environment:
+      - WATCHPACK_POLLING=true
+    build: .
+    ports:
+      - "8081:8081"
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["python3", "runserver.py"]

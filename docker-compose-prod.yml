@@ -1,0 +1,9 @@
+services:
+  fastapi:
+    container_name: fastapi-sever
+    image: your-docker-image-name
+    ports:
+      - "8081:8081"
+    env_file:
+      - env.fastapi
+    command: ["python3", "runserver.py"]

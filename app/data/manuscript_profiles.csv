@@ -1,0 +1,2959 @@
+reviewer_name,title,abstract,remark
+manuscripts-papers,Graphite Electrode Based Bipolar Electrode Electrochemiluminescence Portable Platform for Point -of-,"Abstract— Electrochemiluminescence (ECL) plays a pivotal 
+role in advancing Point-of-Care-Testing (PoCT) technologies. 
+Traditional lab-based testing, while effective, are often 
+expensive, time-consuming, require large clinical samples, and 
+depend on trained personnel for operation. This study presents 
+an innovative, cost-efficient, and user-friendly approach using a 
+graphite pencil-based bipolar electrode BPE-ECL system for 
+the detection of hydrogen peroxide (H₂O₂) concentrations. The 
+8B graphite pencil, chosen for its superior electrochemical 
+properties and affordability, serves as an alternative to 
+conventional screen-printed electrodes. A portable, 3D-printed 
+platform integrated with a smartphone captures ECL signals, 
+with a specialized software analyzing signal intensity to 
+determine H₂O₂ concentrations. The system was validated for 
+different H₂O₂ concentrations, demonstrating linearity between 
+0.01 mM and 1 mM with limit of detection of 9µM. Repeatability 
+analysis confirmed the device’s long-term reliability. This low-
+cost, rapidly assembled, and compact system offers promising 
+applications 
+in 
+biomedical 
+diagnostics, 
+environmental 
+monitoring, and PoCT, presenting a valuable alternative to 
+existing sensor technologies.",
+manuscripts-papers,Graphene-AuNP electrodes for wearable gel-free EEG and health monitoring in wearable glasses Tushar ,"Abstract—Development of wearable EEG systems hinge upon
+usage of dry electrodes for long-term usage without loss of
+connectivity or increase in impedance leading to loss of signal
+quality. Furthermore, the form factor of these electrodes should
+be small and easily formable to integrate with wearable devices
+for smooth and subtle monitoring of biosignals. In this paper we
+present a wearable system consisting of polyimide based EEG
+electrodes with auxillary monitoring sensors which will be able
+to provide a holistic approach to health management. In this
+paper, we demonstrate that deposition of gold nanoparticiles on
+graphene substrate leads to enhanced EEG monitoring. It also
+leads to reduced impedance compared to commercially available
+electrodes. The EEG electrodes were integrated into glasses with
+sensors for wearable EEG monitoring with position sensing, PPG
+recording and camera module for monitoring attention span.
+The validation results and performance metrics related to the
+platform are presented. This platform can potentially enable
+seamless monitoring of frontal lobe and related biomarkers in a
+single integrated system.",
+manuscripts-papers,Adaptive Prediction of Pests and Diseases in Tomato With Granular Ambient and Field Sensing Vidit Pa,"Abstract—Prevalence of multiple pests and diseases in the
+cultivation of tomato pose a significant threat to crop yield and
+quality. Early prediction and detection are critical to mitigating
+these risks. Yet, traditional methods often lack the precision
+and adaptiveness necessary for timely interventions. In this
+study, we explore how granular ambient and field-level sensing
+could be used for the effective prediction of tomato pests and
+diseases. We collect and analyze micro-climate conditions such
+as temperature, humidity, wind speed, and sunshine hours,
+along with field-specific variables associated with crop and pest
+incidents from the stress hotspot with mobile sensing. For this
+study, we have taken a tomato belt from a district in Tamil
+Nadu as our region of interest where the forecasting objective is
+supported by automated detection of reported conditions. This
+fusion of data not only allows for refined learning of micro-
+climatic factors influencing pest and disease outbreak but also
+provides the ability to adapt to rapid changes in infestation
+trends. With Early Blight disease in tomato, as an example,
+we evaluate various frameworks to develop the proposed model
+and present the results with a comparative view illustrating its
+benefts over earlier work.",
+manuscripts-papers,"Wireless , reconfigurable electrochemical measurement platform for wearable applications Liudmila Kh","Abstract— Wearable devices have become transformative tools 
+in healthcare and fitness, providing valuable insights into an 
+individual’s 
+health 
+and 
+fitness. 
+Recent 
+advances 
+in 
+electrochemical front-end integrated circuits have expanded 
+the 
+horizons 
+for 
+wearable 
+technology, 
+enabling 
+the 
+incorporation of electrochemical testing in small, power 
+efficient 
+wearables 
+devices. 
+This 
+paper 
+presents 
+a 
+reconfigurable platform tailored for use in a wearable context, 
+offering a versatile transducer interface and electronic 
+configuration suitable for a diverse range of analytes and 
+applications. 
+The 
+platform 
+is 
+based 
+on 
+a 
+custom 
+electrochemical shield with two analog front-end integrated 
+circuits (AD5941), miniaturized IoT board (XIAO ESP32C3) 
+and optional I2C extension boards for physiological 
+measurements. Future endeavors will focus on enhancing 
+accuracy and integration into clothing.",
+manuscripts-papers,"Himanshi Academy of Scientific and Innovative Research (AcSIR), Ghaziabad - 201002, India Biomeduca ","Abstract— This study investigates how individuals' cognitive 
+load is assessed while they are standing up using multimodal 
+cognitive assessments that incorporate audio-visual signals. 
+Conventional cognitive tests, including the MMSE and MoCA, 
+frequently overlook how posture and sensory integration affect 
+cognitive function. The goal of this research is to provide a more 
+thorough knowledge of cognitive load under more realistic 
+situations by adding real-time audio-visual inputs to operate. 
+Participants completed cognitive activities while standing, with 
+cognitive load evaluated using the NASA Task Load Index (NASA-
+TLX). The findings indicate that differences in cognitive load that 
+might not be detected by conventional techniques are revealed 
+when audio-visual stimuli are integrated into standing cognitive 
+evaluations. This study provides a novel method for evaluating 
+cognitive performance and emphasizes the importance of position 
+and sensory information in cognitive evaluation.",
+manuscripts-papers,Maximising Corn Productivity with Sustainable Practices through Pervasive Sensing and Farm Digital T,"Abstract— Corn is a versatile crop of global signiﬁcance that
+forms a critical component of food systems for both human
+and animal consumption. Among the corn varieties, hybrids
+stand out due to improved genetics and disease resistance which
+results in better yields and resilience. Conventional practices are
+environmentally unfriendly due to adoption of inorganic practices
+that lead to GHG (greenhouse gas) emissions which increase
+the GWP (global warming potential). With a combination of
+pervasive farm sensing and calibrated sustainable practices, one
+can model the crop progression and its environment during a
+season to maximise farm productivity while enriching the soil
+and limiting GWP overheads to align with global sustainability
+goals. For the 2022-23 Rabi season in India, we present a study
+for a hybrid corn variety grown in an open farm that involved a
+variety of sensing modalities: (a) soil sensing to ascertain ﬁeld
+nutrient conditions, (b) micro-climate sensing of the farm for
+corn-growth conduciveness, and (c) mobile participatory sensing
+to monitor the crop stresses. A combination of AI and process-
+based models as part of a digital twin of the farm were used
+to consume the sensor data to continuously generate insights on
+productivity measures such as crop yield and carbon footprint.
+This allowed the organic sustainable practices for the farm to
+be calibrated to suit speciﬁc needs that maximised productivity
+as illustrated with the comparison presented against conventional
+practices. Through this case-study, we show how pervasive multi-
+modal sensing can play a pivotal role in promoting sustainable
+precision agriculture in general and cultivation of corn hybrids
+in particular.",
+manuscripts-papers,Printed Microheater on Textile Thread for Moisture Measurements Manoj Jose 1 Silicon Austria Labs (S,"Abstract— This work demonstrates the feasibility of screen 
+printing a moisture sensing element on a thread. The possibility of 
+micropattern conducting electrodes and resistive elements allowed 
+for fabricating a microheater on threads. The microheater has been 
+applied for moisture sensing exploiting transient thermal 
+measurements. Such sensor threads could enable unobtrusive 
+moisture monitoring in textiles that could be used in wearable 
+applications like fitness clothing or wound dressings.",
+manuscripts-papers,Flexible Sensors for Acoustic Applications Based on MWCNTs Decorated with ZnO Nanoparticles Suresh N,"Abstract— This work demonstrates novel flexible 
+sensors for acoustic applications. The sensors have 
+been fabricated using zinc oxide (ZnO) and multi-
+walled carbon nanotubes (MWCNTs) composite. 
+These 
+nanocomposites 
+exhibit 
+excellent 
+piezoelectric properties, making them highly 
+responsive to vibrations and acoustic signals. As a 
+proof of concept, the prototypes were tested with 
+various acoustic signals including white noise, click 
+track, and DMTF tone. The experimental data has 
+been studied for the sensor’s stability, sensitivity, 
+and repeatability. The sensor produced voltage 
+responses of approximately 2.5 V for white noise 
+and 3.0 V for click track signals, respectively. This 
+facile and low-cost fabrication process can yield 
+mass production of these piezoelectric sensors for 
+acoustic applications.",
+manuscripts-papers,Fluorescence Spectroscopy to Detect Edible Oil Adulteration in Milk : A Potential Application in Dai,"Abstract— The present study explored a simple spectroscopy 
+study to detect vegetable oil (rice bran oil, and palm oil) in cow 
+and buffalo milk. The excitation-emission profile of the milk 
+compound and vegetable oils which are used as adulterants 
+could be used to ascertain the milk quality. A comparative 
+methodology of UV-VIS spectroscopy and fluorescence 
+spectroscopy has been done based on their commercial 
+feasibility. The method may solve the potential challenge of 
+determining organic adulteration at the milk collection point 
+which is considered to be the potential commercial loss for the 
+entire dairy industry.",
+manuscripts-papers,Impact of Mobility on Performance of RDC Protocols in IoT Environment 1stSoumya Vastrad Full-Time Re,"Abstract—To facilitate the usage of internet protocol IPv6 in
+IEEE 802.15.4 wireless networks, an adaptation layer 6LoWPAN
+is sandwiched between network layer and data link layer. In
+protocol stack of 6LoWPAN, data link layer is supported by two
+protocols namely MAC and Radio Duty Cycle (RDC) protocols.
+MAC protocol takes care of transmission and retransmissions
+and RDC protocol will define sleep and wake-up cycles of
+nodes. Growing interest in mobile IoT, made us exlore the
+RDC protocols in the context of mobility. Since, duty cycle
+affects the power efficiency of nodes, it is essential to choose the
+efficient RDC protocol to increase the lifetime of the network
+in mobile IoT applications. Existing works have focused on
+the efficiency of RDC protocol in static scenarios however in
+mobile scenarios, the need for an efficient RDC protocol is
+enhanced due to the dynamic nature of the network. Since,
+node mobility poses many challenges, it is essential to know
+the impact of mobility on performance of the RDC protocol
+to ensure network reliability and responsiveness. Thus, in this
+work we have carried out experiments using Contiki OS/Cooja
+simulator to evaluate the performance of different combinations
+of MAC and RDC protocols in mobile scenarios with respect
+to routing protocol, IPv6 Routing Protocol for Low Power and
+Lossy Networks (RPL). Random Way Point mobility model is
+used for the evaluation. Bonnmotion tool is used to generate
+these mobility traces. CSMA/SicslowMAC, CSMA/CxMAC and
+CSMA/ContikiMAC combinations are used for comparison in
+the context of IoT environment.",
+manuscripts-papers,A Portable 3D Printed Low-Cost Chemiluminescent Sensing Device for Hydrogen Peroxide Detection Kavit,"Abstract— Detecting hydrogen peroxide (H₂O₂) is crucial in 
+various sectors, including food analysis, environmental 
+monitoring, 
+and 
+biomedical 
+diagnostics. 
+Portable 
+chemiluminescence sensors offer an efficient solution for on-site 
+H₂O₂ detection. This study introduces a low-cost, portable 
+chemiluminescent sensor for H₂O₂ detection, developed using 
+3D printing technology. The detection mechanism is based on a 
+reaction involving luminol as the chemiluminescent agent and 
+cobalt (II) ion complexes as catalysts. The system operates with 
+microliter volumes of luminol, cobalt hexahydrate, and H₂O₂, 
+and the reaction, lasting around",
+manuscripts-papers,"Analysis of Various Sensor Data Systems During Turbulent Vs Stable Flights Kanishk Vishwakarma∗, Mar","Abstract—This analysis investigates and compares the perfor-
+mance and efficiency of various onboard operations during tur-
+bulent and stable flights. Utilizing the XPlane-12 simulation, the
+study analyzes data gathered in continuous non-stop flights. The
+data also includes information about control surface movements,
+gear positions, and engine & thrust data. Emphasis is placed
+on identifying sensor accuracy and reliability during turbulent
+conditions. This research provides valuable insights for improving
+onboard sensor technology and flight procedures in real-world
+scenarios.",
+manuscripts-papers,IoT-Enabled Portable ECG System Embedded with Power Gating Partthu Kalleda Kamlesh S Patle Vinay S P,"Abstract— Heart diseases can be identified by measuring 
+heart's activities by means of monitoring the generated 
+electrical signals through an electrocardiogram (ECG). 
+Accurate diagnosis of any type of chest pain is crucial for the 
+heart patients. Considering the catastrophe of the health 
+infrastructure in rural India, there is a need of developing low-
+cost, portable and reliable ECG systems. In the proposed work, 
+we implemented a three electrode ECG monitoring system using 
+electrodes (RA, LA, RL) along with in-house developed an 
+analog front-end (AFE). AFE comprises of AD8232 signal 
+conditioning IC (specifically designed for the ECG system) and 
+a microcontroller. We have designed the portable system on 
+printed circuit board (PCB) having form factor of about 60x28 
+mm2 and power consumption of about 66 mW. To reduce the 
+power consumption of the system, a programmable power 
+gating scheme has been implemented which allows the power to 
+entire system delivered periodically. In this reported system we 
+have kept it wake up for 2 minutes per hour to take the data 
+from the subject, process and send to the server using internet 
+of things (IoT) technology. We compared our system with 7 
+competing systems and found it performed better than all on 
+form factor, cost and energy consumption.",
+manuscripts-papers,Investigating Skin Deformation: The Impact of Indenter Diameter and Thickness on Mechanical Properti,"Abstract— Investigating the mechanical behavior of 
+human skin is important for dermatology, the beauty 
+industry, and diagnosing skin diseases. In a recent study, a 
+finite element method (FEM) analysis was conducted using 
+COMSOL Multiphysics to examine the response of skin to 
+controlled prescribed displacement of 1000 μm with a step of 
+50 μm from a spherical steel indenter with a diameter of 6.22 
+mm. The skin was modeled as a two-dimensional, single-layer 
+hyperelastic 
+material, 
+considering 
+the 
+dermis 
+and 
+hypodermis, and the Mooney-Rivlin material model was used 
+to simulate its behavior under deformation. The study also 
+investigated the effects of indenter diameter and skin 
+thickness on skin behavior, specifically in terms of contact 
+force, strain energy density, and stress levels. The results 
+indicated that a larger indenter diameter spreads stress over 
+a wider area, leading to increased contact force but decreased 
+stress concentration. Conversely, a thicker layer of skin for 
+the same contact area altered the distribution of deformation 
+forces, resulting in lower local stress and contact force.",
+manuscripts-papers,Designing a highly sensitive strain sensor based advanced system for accident detection and alert Mo,"Abstract—The use of Internet of Things (IoTs) is crucial for 
+the development of advanced, highly reliable and cost-effective 
+accident detection system. In India, states and union territories 
+(UTs) reported 4,61,312 road accidents in 2022; these incidents 
+resulted in 1,68,491 fatalities and 4,43,366 injuries, according to 
+a report released by the Ministry of Road Transport and 
+Highways on October 31, 2023. Additionally, this is an 1",
+manuscripts-papers,"Performance Analysis of Soil Sensors: Accuracy, Variability, and Repeatability Puja Banerjee Electro","Abstract— The increasing challenges of climate extremes, 
+soil degradation, and water scarcity in agriculture necessitate 
+precise monitoring and management of soil conditions. This 
+paper focuses on investigating the variability and benchmarking 
+of commercial soil sensors for real-time monitoring of moisture 
+and nutrient levels (NPK: nitrogen, phosphorus, potassium). 
+The study emphasizes the need for sensor-specific calibration 
+due to significant variability observed across different 
+commercial sensors. Laboratory and field experiments revealed 
+a mismatch of up to 10% in sensor readings, underscoring the 
+importance of calibration. By applying gravimetric and sensor-
+specific calibration techniques, the study achieved improved 
+accuracy, with post-calibration errors reduced to under 5%. 
+The findings suggest that proper calibration is essential to 
+ensure reliable sensor performance, which is key to 
+implementing efficient and sustainable precision agriculture 
+practices.",
+manuscripts-papers,Connected Vehicles Testbed for Real-time Deployment of Use Cases at TiHAN IIT Hyderabad V S S Phanee,"Abstract—Cellular 
+Vehicle-to-Everything 
+(C-V2X) 
+technology is revolutionizing vehicular communication by 
+enhancing road safety applications and optimizing traffic 
+management. Unlike its predecessor, Dedicated Short-Range 
+Communications (DSRC), C-V2X enables a broader range of 
+coverage and maintains low latency by leveraging cellular 
+infrastructure. 
+This 
+paper 
+presents 
+an 
+overview 
+of 
+indigenously developed C-V2X units viz., software, hardware, 
+stack and their application development on Vehicle-to-Vehicle 
+(V2V), Vehicle-to-Infrastructure (V2I). The solutions provided 
+by C-V2X technologies, which operate using 5G networks and 
+beyond, enhance driver assistance systems and real-time 
+hazard awareness. The results from trials at the TiHAN 
+testbed demonstrate the effectiveness of C-V2X in enabling 
+collision warning and pedestrian detection, as important use 
+cases.",
+manuscripts-papers,socialLens: Unveiling Loneliness Levels from Wearable and Smartphone Data Tarannum Ara Department of,"Abstract—Loneliness is a significant issue affecting people
+from diverse backgrounds, impacting their overall well being.
+In this paper, we introduce socialLens, a novel framework that
+detects loneliness through wearable and smartphone sensor data
+fusion. In our 4-month study involving 15 participants, we
+observe significant correlation between their multimodal signals
+and loneliness. By utilizing comprehensive data analysis and
+machine learning techniques, socialLens enables personalized de-
+tection of loneliness in an unobtrusive manner, while preserving
+privacy of the users. Our results emphasize the importance of
+integrating the physiological and mobility centric data for robust
+prediction. Our personalized model achieved 83.2% to 100%
+accuracy, while aggregated model reached 95.5%.",
+manuscripts-papers,Development of r espiration monitoring system for infants using ultrasensitive and stre tchable stra,"Abstract—This works presents development of a cost-
+effective respiration monitoring mechanism for infants. The 
+whole system is based on a stretchable strain sensor patch 
+developed using screen printing. The sensor was printed on a 
+biocompatible substrate. The ultrasensitive nature and 
+multielement design of the sensor contribute to picking minute 
+level of strain produced by the breathing simulator to replicate 
+the respiration scenario of an infant baby. To enable real time 
+monitoring 
+competent 
+evaluation 
+electronics 
+was 
+also 
+developed. The mechanism can be used for non-stop observation 
+of an infant and prevents the infant’s internal organs from 
+invasive incubation system in use currently.",
+manuscripts-papers,Computational-Efficient Morphology Zone search in Peripheral Blood Smear for Identification of Atypi,"Abstract—Advances in Digital Pathology has created mile-
+stones in creating value add to the pathologists fraternity. One
+of such solution that aids in reducing the workload of the
+hematopathologists is the automated analysis of the Peripheral
+Blood Smear (PBS). The current systems work more towards
+intermediate magnification to achieve significant success in the
+Turn-Around-Time (TAT), but same is not achieved for higher
+magnification. This paper describes above edge-compute inte-
+grating neural network model that works with higher magnified
+smear images to identify the ideal zone of morphology. The results
+shows that the system is able to reach the region of interest with
+overall accuracy of 74% for 5-region and 90.3% for 3-region
+classification system. Further, the tested model achieves the TAT
+of less than 180 secs in higher magnification. The proposed system
+shall be implemented for computational constrained imaging
+systems that may be restricted to use single objectives.",
+manuscripts-papers,Influence of Feed-Line Integration on Flexible Sensing Antenna Performance Sanjeev Patel Electrical ,"Abstract— This paper explores the effect of the integration 
+of an SMA (Sub Miniature Version A) connector on the 
+performance of a (Coplanar waveguide) CPW-Fed circular ring 
+antenna printed on a PET (polyethylene terephthalate) 
+substrate using silver ink. This work aims to make a highly 
+flexible and reliable antenna system suitable for modern 
+wearable and portable electronics applications. The design and 
+fabrication process are described in detail in the paper, with an 
+emphasis on the difficulties in preserving mechanical flexibility 
+and electrical performance. The integration of the SMA 
+connector has carefully been optimized to ensure minimal signal 
+loss and robust connection, even under mechanical stress. 
+Experimental results show that the CPW-fed circular ring 
+antenna, with a securely attached SMA connector and desirable 
+performance metrics, including consistent return loss, validates 
+its potential for use in flexible electronics. The results show that 
+silver ink on PET substrates works well for producing robust 
+and efficient antenna for use in next-generation communication 
+devices.",
+manuscripts-papers,Metamaterial Inspired Coaxial Fed Two Element Antenna for Brain Tumor Detection and Localization Abs,"Abstract— This study introduces, a metamaterial coaxial-
+fed two-element antenna with a unidirectional radiation 
+pattern resonating at 3.88 GHz in open space. The 
+proposed design has a minimal footprint area of 0.336𝜆 × 
+0.2845𝜆 × 0.010𝜆 and showcases the remarkable results. 
+The prospective design is made on a substrate (Rogers 
+TMM) with a relative permittivity of 4.4 and an 
+interdigitated rectangular parasitic patch positioned at 
+the top of the substrate. The humanoid head phantom 
+comprising 6 layers (brain, CSF, dura, skull, fat & skin) 
+and the tumor, which possesses various physical and 
+electromagnetic characteristics is designed within the 
+HFSS. The detection of tumors in the brain is done by 
+analyzing the difference in scattering parameters for 
+healthy and diseased tissue. However, the localization and 
+sizing of the cancer are done by extracting the phase and 
+magnitude of the electric field rather than utilizing 
+complex imaging algorithms. Furthermore, the antenna's 
+Specific Absorption Rate (SAR) for a regular head 
+phantom is 0.16779 W/Kg, and a phantom with a tumor 
+is 0.202 W/kg, less than the average SAR of 2 W/kg. 
+ 
+I.",
+manuscripts-papers,A Wireless and Epidermal ML-Assisted GSR Monitor System for Stress Assessment 1st Xiaochang Pei Dept,"Abstract—Conventional stress assessment methods, such as 
+questionnaires and lab-based assays, face challenges including a 
+lack of quantifiable data, inconsistent standards, and limited 
+applicability for continuous monitoring. To overcome these 
+issues, we developed a wireless, battery-free wearable system for 
+stress monitoring that integrates machine learning (ML) with 
+epidermal galvanic skin response (GSR) sensors made from 
+ultra-thin conductive polymer film. These conductive polymer 
+electrodes are ultrathin, stretchable, and fabricated through an 
+economical 
+fabrication 
+process, 
+providing 
+low 
+contact 
+impedance, a high signal-to-noise ratio, and strong mechanical 
+durability. The system features a wireless, battery-free readout 
+circuit that leverages Near-Field Communication (NFC) 
+technology for power and data transmission, eliminating the 
+need for bulky batteries and improving both wearability and 
+user comfort. GSR data is wirelessly transmitted to a 
+smartphone for real-time analysis, where machine learning 
+models are used to classify stress events by distinguishing 
+between stress and rest states. In-situ experiments, conducted 
+during a Stroop test, validated the system's ability to detect 
+stress events. These findings highlight the system's potential for 
+continuous, 
+real-time 
+stress 
+monitoring 
+in 
+everyday 
+environments. This wearable device presents a notable 
+advancement in stress detection technology, offering a practical, 
+efficient solution for continuous health monitoring.",
+manuscripts-papers,Performance Dependency of Piezoelectric Sensor on Robotic Finger Tapping Frequency Ariba Siddiqui *M,"Abstract—Rapid advancements in the fields of biomedical, 
+intelligent 
+devices, 
+energy 
+harvesters, 
+and 
+wearable 
+technologies have increased the need for flexible sensors that 
+are extremely versatile, reliable, and environment friendly. In 
+past decades, piezoelectric materials have drawn a lot of 
+interest in this regard. Amongst all the piezoelectric materials, 
+PVDF (along with its copolymers) has been extensively studied 
+for wide number of applications because of its exceptional 
+flexibility, 
+long-term 
+stability, 
+processing 
+ease, 
+and 
+biocompatibility. Herein, we report an easily fabricated novel 
+PVDF/ZrO2 based thin film piezoelectric sensor. The 
+piezoelectric performance of the sensor is tested by tapping the 
+sensor with a robotic finger. Four different frequencies—7 Hz, 
+3 Hz, 2 Hz, and 1 Hz are used for tapping the sensor. 
+Correspondingly, the sensor generated 0.5 V, 0.288 V, 0.12 V, 
+and 0.11 V maximum output voltages for the mentioned 
+frequencies. The effect of tapping frequency on the sensor's 
+electrical voltage generation is observed. The results show that 
+a greater voltage output from the sensor is correlated with a 
+higher tapping frequency. Furthermore, a sensor with a low 
+tapping frequency will produce a voltage output from the 
+sensor that is comparatively lower.",
+manuscripts-papers,Utilizing Inverted Residual Blocks in Deep Learning Models for ALL Classification Fitsum Getachew To,"Abstract—Acute Lymphoblastic Leukemia, a rapidly progress-
+ing cancer primarily affecting children, is caused on by the
+aberrant growth of immature white blood cells in the bone
+marrow. Effective therapy for Acute Lymphoblastic Leukemia
+depends on early discovery and precise classification, however
+hematologists frequently find this to be a labor-intensive task. By
+using deep learning techniques for the automated classification
+of leukemia in blood microscopic pictures, this study aims to
+lessen the workload for doctors. We compared our proposed
+deep neural network model, which uses Inverted Residual Blocks
+inspired by MobileNetV2, to other two transfer learning models:
+VGG16, which and Inception.Our model is optimized to minimize
+computing demands and capture complex information in an
+effective manner. Furthermore, overfitting was greatly reduced
+by the thoughtful application of dropout layers, producing a
+more broadly applicable model. On the test dataset, the suggested
+model yielded an accuracy of 98.55% and showed remarkable
+recall rates of 97%, 100%, and 100% for the early pre-B, pre-
+B, and pro-B stages, respectively. These results underscore the
+model’s potential as a reliable tool for assisting in the early
+detection and classification of ALL, ultimately contributing to
+more effective clinical decision-making.",
+manuscripts-papers,Development of a Pulse-Mode Photobiomodulation for Enhancement of Cerebral Oxygenation Level Biswaji,"Abstract— The paper represents a low cost Pulse Mode 
+Photobiomoduation (PBM) device where low power infrared 
+LEDs are used. The wavelengths of LEDs are 660, 810 and 850 
+nm. Altogether 28 LEDs are used which are divided into seven 
+square matrix manner. There are four LEDs in each square 
+matrix. In every square matrix there are two LEDs of 
+wavelength 660, one LED of wavelength 810 and one LED of 
+wavelength 850 nm. When this PBM device applied into the 
+frontal lobe of the cerebral cortex light penetrate into the tissue 
+of the head and react with blood choromophores and activate 
+mitochondrial function then it gets more oxidized and produce 
+Adenosine Triphosphate (ATP), Nitric Oxide (NO) and Reactive 
+Oxygen Species (ROS) which leads to an enhancement of 
+cerebral oxygenation level by approximately 7%.",
+manuscripts-papers,"Evaluating the Suitability of IBM Quantum Hardware for Practical Quantum Search Jyothikrishna Sajja,","Abstract—Through the application of concepts derived from
+quantum mechanics, quantum computers assert that they are
+capable of doing certain tasks with more efficiency than classical
+computers. For the purpose of accelerating the process of
+solving unstructured search problems, a well-known quantum
+technique known as Grover’s algorithm, is utilized. As part of this
+investigation, the IBM Q 5 Tenerife is compared to the quantum
+hardware that is already available from IBM, and the feasibility
+of adopting Grover’s approach is evaluated. An analysis of the
+algorithm’s component pieces, such as the diffusion operator
+and the oracle, is included in this presentation. Additionally,
+simulation and experimental data are also included. The findings
+that we obtained demonstrate that the accuracy of the 3-qubit
+Grover’s approach is improved when it is executed. In contrast,
+the 4-qubit Grover’s technique demonstrates a rise in accuracy
+that is not as noticeable as the other algorithm. The execution
+time of the 3-qubit Grover’s approach is successfully reduced
+from 84.33 second to just 5 second by both of the methods,
+which is something that should be included in the discussion.",
+manuscripts-papers,Innovative 3D -Printed pH Wearable Sensor 3DpHS: Wireless and Battery -Free System for On -Demand He,"Abstract—Wearable pH sensors are valuable for health 
+monitoring, including infection detection, disease diagnosis, and 
+personalized medicine. However, current devices are often 
+costly, rigid, and require bulky instruments operated by skilled 
+personnel, limiting their clinical and remote application. Here, 
+we introduce a miniaturized, battery-free, biocompatible, 
+flexible, 3D-printed (3DpHS) sensor system with a reusable NFC 
+module for wireless, real-time pH monitoring. Using direct ink 
+writing, the sensors were printed with an NFC circuit on a 
+flexible, skin-like substrate, offering a low-cost, efficient 
+fabrication process. The system demonstrated high sensitivity (~ 
+|5",
+manuscripts-papers,Two-stage optimization algorithm for model parameter extraction of a EIS-based pocket-sized adultera,"Abstract—Identifying Cooking oils that are adulterated with
+cheaper additives or used oils is a pressing challenge today. In
+this study, a pocket sized, low-cost, and versatile system was
+developed using the ADuCM355 microcontroller equipped with
+an electrochemical interface to measure the EIS of acetone extract
+of coconut oil which is adulterated by adding palmitic acid and
+fitting the EIS to an equivalent circuit. The model parameters
+of the equivalent circuit is extracted using different population
+based optimization technique. The performance, in terms of
+quality of solution and extraction time, of different variants of
+differential evolution (DE) algorithm are compared with Particle
+Swarm Optimization (PSO), Genetic algorithm and Simulated
+Annealing (SA) algorithm. The study investigates efficiency of
+multiple optimization algorithms for fitting. In this approach, the
+detection of adulterants in oils is performed at low frequency
+of 200 KHz which enables miniaturization of the system for
+portability.",
+manuscripts-papers,Ultrafast highly sensitive optical fiber sensor for humidity me asurement Sunil Mohan * Department o,"Abstract— This paper describes the development of an 
+optical fiber humidity sensor utilizing a Ti₃C₂Tₓ MXene-coated 
+etched fiber Bragg grating (EFBG). The developed sensor 
+demonstrates a linear response over the RH range 40-85% with 
+an impressive sensitivity of 35.5 pm/% RH. An ultrafast 
+response and recovery times of 0.07s and 0.1s are observed 
+during quick humidification and dehumidification. The 
+response of the sensor is fully reversible and repeatable.",
+manuscripts-papers,Water Footprint of Academic and Administrative Personnel: A Case Study at Samarkand State University,"Abstract— This study examines the water footprints of 
+academic and administrative staff at Samarkand State University, 
+revealing an average of 1905 m³/year per person. Industrial 
+consumption accounted for the largest share (897 m³), followed 
+closely by food consumption (891 m³), with meat being the most 
+water-intensive. Domestic consumption represented a smaller 
+portion (116 m³). The findings emphasize the significant 
+environmental impact of dietary choices and highlight the need for 
+more sustainable practices. By promoting water-efficient habits 
+and informed consumption, substantial reductions in water use 
+can be achieved, contributing to efforts in addressing global water 
+scarcity.",
+manuscripts-papers,Mitigating Stiction Failures in In-use M/NEMS - based Sensors using a Reliable Piezoelectric RESET M,"Abstract—This paper presents a reliable piezoelectric 
+RESET mechanism designed to overcome stiction in MEMS-
+based sensors during operation. In addition to addressing 
+stiction, the proposed RESET mechanism serves as a beam stop 
+during excessive vibrations or acceleration, preventing further 
+damage to the suspended structure. The integration of this 
+mechanism into the fabrication process requires only one 
+additional lithography step, making it efficient for CMOS-
+MEMS integration. The RESET functionality has been 
+successfully demonstrated through 1000 cycles without any 
+performance degradation, confirming its robustness and 
+reliability.",
+manuscripts-papers,Endoscopy-Based Deep Learning System for Recognizing Gastric and Intestinal Disorders Dharisana S J ,"Abstract—Consequently, endoscopy is an important modality
+for the diagnosis of GI disorders, especially for the detection
+of GA and IM. Considering that highly trained radiologists are
+required in diagnosis, it remains subjective, which suffers from
+examination efficiency due to the time and expertise involved.
+The paper proposed a novel deep learning-based approach for
+automating diagnostics and enhancing diagnostic precision in
+endoscopy. Using data from both LCI and WLI modalities,
+annotated by expert radiologists and verified with biopsy results,
+this is to set up a benchmark dataset for the recognition of
+GI disorders. The proposed system leverages transfer learning
+and deep learning techniques to come up with better diagnostic
+accuracy and speed.",
+manuscripts-papers,Digital Interface for Short-Span Resistive Sensors Using SAR Technology Nimesh Kr Baranwal and Anoop,"Abstract—This paper presents a digitizing interface circuit
+suitable for resistive sensors with a relatively short output span.
+The scheme employs an improved successive approximation
+register (SAR)-based technique for digitization. The proposed
+architecture offers good performance for short-span sensors
+while retaining the inherent advantages of the SAR method.
+The mathematical methodology of the circuit solution is detailed
+and analyzed. Simulation studies are conducted to verify the
+effectiveness of the scheme. Results show that the scheme provides
+a low nonlinearity error (0.07%) when interfaced with a sensor
+having a base resistance of 5 kΩand a span of 500 Ω. Further,
+experimental evaluation of the circuit is carried out with both a
+synthesized resistive sensor and a commercial magnetoresistance
+(MR) sensor. The practicality of the scheme is established through
+these tests. Results indicate that the scheme can serve as an effec-
+tive linearizing interface for low-field MR-based magnetometers.",
+manuscripts-papers,Range Analysis for Effective Object Detection Algorithms for Camera in Autonomous Vehicles Abhilash ,"Abstract—An autonomous vehicle must be capable of precise
+detection of objects that are present on the road for safe
+operations in all scenarios. Computer vision techniques, which
+inspect captured image attributes to identify the cluster of pixels
+pertaining to a specific object, are employed for these purposes.
+This necessitates a pixel-level understanding of the working of
+the cameras and algorithms employed. This study endeavors to
+experimentally determine the maximum range (i.e., the maximum
+distance from the camera pinhole to the object) of any available
+general RGB camera, up to which the employed algorithm can
+accurately identify the object of a fixed dimension (in this case,
+a pedestrian), keeping in mind that this range also depends
+on the used algorithm and the training data. This dependence
+is due to the requirement of object mapping on the sensor
+plane for successful identification. The calculations of perspective
+view with intrinsic camera parameters are used to correlate the
+observations with theory for predictive capabilities. Furthermore,
+this study compares various object detection algorithms trained
+on the COCO dataset and fine-tuned on TIAND datasets to
+converge on the best one for the specified use cases. Also,
+experimental results show significant improvement in the fine-
+tuned models compared to existing ones.",
+manuscripts-papers,"On Selection Criteria of Sensor for Online Non-Contact Vibrometry of Grinding Mills Mayukh Biswas∗, ","Abstract—Accurate measurement of surface vibration of a ball
+mill is essential to the determination of the liner wear, and
+subsequently its replacement interval. Owing to the variability
+in specifications and cost of off-the-shelf non-contact vibration
+sensors, it is necessary to define a methodology to test the
+diagnostic sensitivity of a sensor, and determine its fitment to the
+target application. This work presents a novel approach towards
+sensor selection, where the vibration displacement characteristics
+is determined for a given target application. The vibration
+information can subsequently be leveraged for an optimal choice
+of sensor, in regards to the diagnostic sensitivity. Three off-the-
+shelf sensors of known range resolution have been tested for
+their suitability for machine diagnostics. Experimental results
+show that the measurement outcomes of the sensors agree with
+the one-time sensor selection study.",
+manuscripts-papers,"Advanced Wearable Platform for Continuous, Wireless Monitoring of Sweat Cortisol Shingirirai Chakoma","Abstract— Stress significantly impacts health, highlighting 
+the need for precise and objective measurement methods, as 
+conventional self-report questionnaires often lack reliability. 
+Existing wearable technologies, utilizing physical sensors like 
+electrocardiogram and galvanic skin response face specificity 
+issues and interference from non-stress-related activities. 
+Molecular biosensors targeting cortisol, a primary stress 
+biomarker, provide a compelling alternative; however, 
+traditional blood-based cortisol assays are invasive and 
+impractical for continuous monitoring due to their complexity 
+and cost. This study presents a novel wearable molecularly 
+imprinted polymer-radiofrequency (MIP-RF)  biosensing 
+system for non-invasive, continuous, and real-time sweat 
+cortisol monitoring. The proposed system is wireless, battery-
+free, flexible, reusable, and environmentally stable, featuring an 
+inductance-capacitance transducer that translates cortisol 
+concentrations into resonant frequency shifts with high 
+sensitivity (~155kHz/log[µM]) over the physiological range of 0-
+1μM. Integration with Near-Field Communication (NFC) 
+technology enables seamless operation without batteries, while 
+a 3D-printed microfluidic channel facilitates direct sweat 
+sampling, allowing on-demand continuous monitoring of 
+cortisol levels throughout daily activities. Validation of the 
+system through circadian rhythm assessment, comparing 
+morning and evening cortisol concentrations, demonstrates its 
+effectiveness. This advancement represents a significant leap in 
+non-invasive, on-demand health monitoring, offering a precise 
+wearable platform for continuous molecular detection of stress 
+biomarkers.",
+manuscripts-papers,Sensitive detection of fat and urea content in milk using ultraviolet-visible- near infrared spectro,"Abstract—The sensitive detection of fat content and urea 
+adulteration in milk using ultraviolet-visible-near infrared 
+(UV-Vis-NIR) spectroscopy is reported. In the initial 
+experiments the spectra of commercially sourced milk from 8 
+brands with different fat contents (3-6%), a total of 16 samples, 
+are recorded in the wavelength range of 190-800 nm. Principal 
+component analysis is performed on these spectra The score 
+plots of the first two principal components (PC1 and PC2) 
+enable a visual classification of the milk brands according to 
+fat contents. Out of these 8 brands, one brand with 4.5% fat 
+content is then selected for urea adulteration from 10mg/dL to 
+2000 mg/dL. As in the previous case, the score plot of PC1 vs 
+PC2 enables a visual classification of samples based on urea 
+content. Partial least squares regression analysis is carried out 
+on the data and from this the root means square error (RMSE) 
+and root mean error of cross-validation (RMSECV) are 
+calculated. It is demonstrated that RMSECV value is of the 
+order of 3.8 while the R2 value is 0.81 for the adulterated 
+samples. A confusion matrix was used, to further validate the 
+accuracies. In summary, the present work demonstrates the 
+efficacy of UV-Vis-NIR spectroscopy for sensitive detection of 
+fat and urea content in milk.",
+manuscripts-papers,Enhancing Smart Greenhouse Management System Using Hybrid Machine Learning Model Pratyusha Chatterje,"Abstract—This study presents a new hybrid machine-learning
+model for optimizing smart greenhouse operations in response
+to worldwide food production demand. The model combines
+Random Forest (RF) and Support Vector Machine (SVM) al-
+gorithms to efficiently monitor and control important environ-
+mental parameters like temperature, humidity, water, and soil
+nutrient levels. With a large dataset of 37,923 data points and
+13 essential features, the hybrid model uses RF for regression
+tasks like forecasting continuous environmental variables and
+SVM for binary classification tasks like predicting actuator
+states. Several conventional machine learning techniques, such
+as Logistic Regression, Random Forest, Decision Tree, Na¨ıve
+Bayes, SVM, and K-Nearest Neighbors (KNN), were used to
+compare the hybrid model’s performance. The hybrid model
+outperformed the others with an accuracy of 99.70%, precision
+of 99.75%, a recall of 99.71%, and an F1 score of 99.73%. These
+indicators highlight how well the model can improve greenhouse
+management by making accurate and dependable forecasts. This
+study demonstrates how smart agriculture may be upgraded
+using innovative machine learning methods, providing a reliable
+solution for sustainable and effective greenhouse operations.",
+manuscripts-papers,A PSPNet Approach for Efficient Segmentation of Direct and Alternative Drivable Road Spaces in Auton,"Abstract—Autonomous navigation poses a significant challenge
+for the automotive industry’s next generation. Indian road
+conditions sometimes hinder smooth operations for Advanced
+Driver Assistance Systems (ADAS). Consequently, technological
+assistance is necessary with computer vision, pattern recognition,
+and intelligent AI models. The main purpose of current and
+alternative driving space detection is to enhance vehicles’ safety,
+efficiency, obstacle avoidance, and autonomy by providing accu-
+rate information about the road surface and surroundings. This
+study proposes a novel method utilizing PSPNet (Pyramid Scene
+Parsing Network) with ResNet 101 as the backbone for precisely
+segmenting drivable and alternative road space areas to facilitate
+autonomous driving. The model training utilizes the BDD 100K
+dataset’s high benchmark, comprising a comprehensive collection
+of varied urban driving scenes. During the training process,
+70,000 images (in JPG format) and their corresponding 70,000
+labels (in PNG format) were utilized, with 20 epochs and a batch
+size of 8. The testing phase involved 10,000 images or real-time
+streaming video from the testbed at TiHAN IITH. The proposed
+method achieves state-of-the-art performance, with an accuracy
+of 92.23%, mAP (mean Average Precision) of 84.93%, recall rate
+of 90.42%, and detection rate of 86.18%. The simulated results
+illustrate the effectiveness and scalability of the PSPNet approach
+in the context of autonomous driving systems in complex urban
+environments.",
+manuscripts-papers,Angled-wall-induced Capillary Action for Different Biofluids in Microfluidic Sensing System Design K,"Abstract— Microchannel design is an essential part of 
+microfluidic devices, which requires micro-scale analysis of 
+fluid flow dynamics. In this paper, phenomenon of capillary rise 
+for different structures is studied via computational modelling 
+and simulation. The biofluids taken into consideration have 
+similar magnitudes of density but different values of viscosity. It 
+is found in the study that, use of angled/inclined wall 
+microchannel provides faster response than the cylindrical one 
+i.e. 34.81%, 35.088% and 37.09% for Interstitial Fluid (ISF), 
+blood and saliva respectively (with angle of inclination θ=15o 
+and contact angle θca=0o). Also, for θca=80o, the inclined 
+structures take 40.63%, 56.62% and 65.75% less time to fill 
+itself with ISF, than the cylindrical one with θ=0o, 10o and 15o 
+respectively. Hence, this effect is more pronounced for higher 
+contact angles than the lower ones. This study is useful in 
+designing various microfluidic biosensing platforms.",
+manuscripts-papers,Geometric Parameter Feature Extraction for Off- device AI-based Electronic Nose for Lung Cancer Oluw,"Abstract— Lung cancer is the leading cause of death globally
+and consequently the most prevalent cancer type. To improve
+lung  cancer  survival  rates,  diagnosis  methods  have  been
+improved over the years to support early and prompt detection of
+lung cancer. The electronic nose (E-nose) has emerged as a very
+promising diagnostic innovation in lung cancer management. A
+lot of research has gone into the several modules that make up
+the e-nose to optimize the performance of this screening tool. In
+the  signal  processing  and  pattern  analysis  modules,  the
+proliferation  of  artificial  intelligence  (AI)  has  generated  very
+promising results, depending on the mode of implementation.
+The AI processing of the E-nose can be done off-device or on-
+device. This letter reports off-device AI processing and the use of
+geometric parameter extraction for the feature extraction phase,
+and recursive feature elimination for the feature selection of the
+breathprint  data  before  classification  using  machine  learning
+models  into  three  classes  namely  lung  cancer  (LC),  chronic
+obstructive pulmonary  disease (COPD), and  healthy  subjects.
+The XGBoost ensemble learning framework performed best with
+accuracy,  sensitivity,  and  specificity  of  85.75%,  85.59%,  and
+84.51% respectively. This further emphasizes the prospects of the
+E-nose  for  lung  cancer  diagnosis  and  calls  for  further
+optimization to the point of clinical use.",
+manuscripts-papers,Design and Simulation of a MEMS based Non-thermal Hair type Airflow Sensor 1stS. A. Kariyawasam Depa,"Abstract—MEMS based non-thermal airflow sensors have
+recently emerged as a promising research area, offering high
+precision and accuracy for airflow measurements. This study
+introduces an airflow sensor inspired by the motion of human
+hair, presenting an innovative approach to enhance flow sensing
+capabilities. This sensor allows for precise measurement of
+airflow speeds within the laminar flow range. Additionally, the
+sensor’s deflection causes a change in resistance in piezoresistive
+elements, leading to a voltage difference. The proposed sensor is
+designed for airflow velocities up to 40 ms−",
+manuscripts-papers,Racial Bias in Multimodal Classification of Healthcare Data - Evidence from MIMIC-IV Suchit Patel De,"Abstract—The increase in the number of patients per doctor
+has created a significant need for digital assistance in healthcare.
+Managing patient data has become more challenging as it
+continues to grow, making timely treatment more difficult. AI/ML
+techniques can assist clinicians in providing personalized and
+timely health care services. However, leveraging multimodal data
+from various sources is essential for improved pattern recognition
+and predictions. This study introduces a multimodal deep learn-
+ing approach for predicting chronic health issues, utilizing image,
+text, and tabular data from the MIMIC-IV dataset. The model
+integrates three neural networks, each processing a different
+data type, and combines their outputs for predictions. The main
+contribution of the paper is to conduct a detailed bias analysis
+to evaluate the model’s performance across different racial
+groups. The results demonstrate strong overall performance but
+reveal significant discrepancies, particularly between WHITE
+and BLACK groups. These findings highlight the necessity of bias
+mitigation in healthcare AI models to ensure equitable outcomes
+for all patients.",
+manuscripts-papers,Expert -Guided Multi -Head Contextual Bandits for Classifying Harmful Brain Activity Patterns Abstra,"Abstract—Effective interpretation and classification of harmful 
+brain activities using EEG sensor data is essential for advancing 
+medical diagnostics and therapeutic interventions. This study 
+introduces a novel approach by combining a multi-headed transformer 
+model with the principles of a contextual multi-armed bandit 
+framework to enhance decision-making in the detection and 
+classification of harmful brain activities. The transformer model 
+utilizes multiple ""expert"" heads, each trained to capture different 
+aspects of the EEG signals, providing a comprehensive analysis of 
+both immediate and extended contexts within the data. This 
+architecture enables a robust interpretation of complex brain activity 
+patterns by integrating the diverse expertise of the individual heads. 
+By applying contextual bandit principles, the model optimizes 
+decision-making, where each state (represented by the transformer’s 
+output embeddings) informs the selection of the most appropriate 
+classification actions. The bandit framework assigns rewards for 
+correct predictions and penalties for errors, refining the model's 
+performance through continuous learning. Preliminary results show 
+that this approach can significantly enhance the reliability and 
+accuracy of harmful brain activity detection when compared to other 
+reinforcement learning algorithms with promising implications for 
+real-time monitoring and clinical diagnosis.",
+manuscripts-papers,"Abstract — An impedance sensor is introduced, consisting of two rectangular, opposing electrodes fab","Abstract— An impedance sensor is introduced, consisting of 
+two rectangular, opposing electrodes fabricated from a 
+copper-tin alloy. Biocompatibility within the experience 
+parameters was tested for these electrodes. Electrochemical 
+impedance spectroscopy (EIS) was used to differentiate 
+bacterial population counts. Furthermore, Distribution of 
+Relaxation Times (DRT) analysis is performed in order to 
+discriminate between viable and non-viable bacterial 
+populations. 
+I.",
+manuscripts-papers,Multiple Smaller ArUco Markers based Marker Design for Optical Camera -based Surgical Navigation Sys,"Abstract— It has become increasingly common to use 
+optical navigation system for various types of surgical 
+procedures, and it has redefined the landscape of surgical 
+procedures, especially for orthopedic surgeries. This system 
+performs real-time tracking of various surgical and digitization 
+tools. Frequently, such a system used either a passive reflective 
+sphere marker or an active marker with LED sources and an 
+infrared stereo-camera system for marker tracking. However, 
+such systems are expensive and financially unviable for smaller 
+healthcare facilities. ArUco marker-based navigation using a 
+single camera has become popular in various applications, 
+including surgical navigation, and can provide a low-cost but 
+efficient solution. The present study suggests using a marker 
+design consisting of multiple small arUco markers instead of a 
+bigger arUco marker. Multiple arUco markers allow the 
+estimation of internal translation and rotational errors within 
+a marker, which can help in detecting inaccurate data points. 
+In the present work, we experimented with two marker 
+designs: one with four smaller markers (M4) and another with 
+two smaller markers (M2). We compared their performance 
+with a similar-sized single arUco marker (M1). Experimental 
+outcomes showed that considering internal translation and 
+rotational errors that can be computed for M4 and M2 
+markers helps filter bad data points and minimizes the overall 
+markers’ translation 
+and 
+rotational 
+estimation 
+errors. 
+Additionally, different marker shapes other than squares can 
+be designed by rearranging the smaller arUco markers.",
+manuscripts-papers,Revolutionizing Kitchen Gardening: A Comprehensive AIoT System for Organic Crop Automation and Plant,"Abstract—In recent years, health and culinary perceptions
+have shifted significantly due to the decreased time spent shop-
+ping for and growing fresh, organic vegetables at home. This shift
+has raised concerns about the accessibility and quality of fresh
+produce. This paper presents the design of a kitchen tabletop
+garden for organic crop farming using Artificial Intelligence (AI)
+and internet of things (IoT) for home setups. The proposed IoT
+system is engineered to monitor and control the environment
+to enhance plant growth. It is equipped to irrigate and identify
+weeds and diseases affecting plants, ensuring a steady and reliable
+source of fresh organic produce. A user-friendly web-based inter-
+face is integral to the system design, facilitating easy operation
+and supervision. This research also identifies MobileNetV2 as the
+optimal model for each use case by evaluating multiple models
+to determine the best fit for low-power, low-computation IoT
+devices. The proposed model using MobileNetV2 outperformed
+the existing model by 10% in terms of accuracy.",
+manuscripts-papers,Graphene FET Biochip Integrated with Electronic Readout for Antibiotic Detection in Contaminated Wat,"Abstract— In this work, a FET biochip system has been 
+deployed for ultrasensitive antibiotic detection in contaminated 
+water by drop casting thermally reduced graphene oxide on 
+copper plated PCB using commercially available GO solution, 
+thereby 
+facilitating 
+mass 
+production 
+and 
+electronics 
+integrability. The high frequency measurement, reducing the 
+Debye screening effect has resulted in 1 fM detection limit of 
+Ciprofloxacin in spiked river water which is two orders of 
+magnitude lower than the existing reports.",
+manuscripts-papers,Elemantra: An End-to-End Framework Empowered with Edge AI to Tackle Human-Elephant Conflict 1stNuwan,"Abstract—The cohabitation of elephants and humans has
+evolved into a human-elephant conflict (HEC) due to the increas-
+ing loss of historical elephant habitations. As HEC is a substantial
+threat to both species, advanced sensing methods are utilized to
+develop HEC prevention frameworks which still lack unification.
+Here, we propose a collaborative framework for HEC prevention
+consisting of three main modules: (1) a joint infrared-seismic
+sensing strategy to facilitate elephant detection at the edge using a
+distributed and light-weight deep learning module, (2) an on-site
+repelling system with time-varying acoustic and light deterrents,
+and (3) a mesh network for edge device communication. Our
+end-to-end framework is designed to operate with no human
+intervention through a set of novel and systematic decision-
+making pipelines and algorithms. The preliminary results of
+each module confirm that the proposed framework is effective in
+achieving their individual, but complementary, goals and thereby
+promising as a fully automated collaborative system for HEC
+prevention. We publicly release our annotated datasets and codes
+at https://github.com/nuwansribandara/elemantra to support the
+development of HEC prevention systems for the benefit of the
+environment.",
+manuscripts-papers,In-Built Electric Field Modulated p -Si/n-MgZnO thin film P -N junction -based UV photodetector Mrit,"Abstract— In this study the authors demonstrated the pn-
+junction based self-powered p-Si/n-MgZnO thin film (TF) 
+ultraviolet (UV) photodetector (PD) using controlled growth RF 
+sputtering technique. The synthesized as-deposited Si/MgZnO 
+(D1) and annealed Si/MgZnO (D2) samples were polycrystalline 
+in nature as examined using X-ray diffraction technique. The 
+current (I) vs. voltage (V) characteristics of both the devices 
+showed good rectifying behavior and higher sensitivity under 
+the exposure of UVA light at 0 V. Relatively lower leakage 
+current of 0.011 nA and enhanced photocurrent of 0.74 nA was 
+recorded for device D2 under the illumination of UVA light at 0 
+V bias as compare to D",
+manuscripts-papers,Non-Faradaic Electrochemical Impedance -Based Quantification of Fusarium fujikuroi Using a Leaf- Bas,"Abstract—The well-known phytopathogen Fusarium fujikuroi 
+is the cause of the silly seedling disease, also known as the 
+bakanae disease of rice. In this study, we propose and 
+demonstrate a bio sensing platform for quantification of F. 
+fujikuroi using non-Faradaic electrochemical impedance 
+spectroscopy. The traditional methods for detection of fungi are 
+time consuming, laborious and intensive. Therefore, the 
+proposed work serves a quick low-cost rapid method to detect 
+and quantify fungi without any additional reagents. Utilizing 
+conductive fillers, largely graphite powder and chitosan binder, 
+superior conductive graphite/chitosan composite ink with 
+resistance ranging from 50 to 80 Ω.m. was prepared. Screen 
+printing of ink was done on biodegradable processed Banyan 
+leaves which were made hydrophilic using a DMSO treatment. 
+When compared to conventional sensor materials, using a leaf-
+based biodegradable sensing platform reduces environmental 
+impact and is in line with sustainable practices. Non-Faradaic 
+EIS platforms offer an invaluable resource for accurate, 
+economical, and environmentally responsible quantification of 
+Fusarium fujikuroi, greatly advancing both disease control 
+tactics and agricultural practices.",
+manuscripts-papers,Smart Management of Manhole detection and Monitoring System using Google Spoorthi Sripad Mihir Sangl,"Abstract— Effective management of urban infrastructure is 
+essential for upholding public safety and ensuring operational 
+reliability. The Manhole Detection and Monitoring System marks a 
+crucial advancement in this field, offering real-time monitoring and 
+analysis of manhole conditions. This research paper explores the 
+development, implementation, and benefits of such systems, which 
+utilize a combination of sensors, cameras, and IoT connectivity to 
+monitor the structural integrity, environmental conditions, and 
+operational status of manholes. The system integrates various 
+sensors including temperature, gas, pressure and waterflow sensor 
+with high-resolution cameras to collect comprehensive data on 
+manhole conditions. Proper management of urban infrastructure is 
+vital for ensuring public safety and operational reliability. The 
+Manhole Detection and Monitoring System represents a significant 
+advancement, providing real-time monitoring and analysis of 
+manhole conditions.",
+manuscripts-papers,Generation of a Flat-Top Beam from a Gaussian Beam Using a Binary Phase Grating 1stNagendra Kumar De,"Abstract—This paper presents a method for generating a flat-
+top beam by modifying a Gaussian beam with a binary phase
+grating using a single-zone beam shaper. We explore the design
+of the phase grating, the interaction process with the Gaussian
+beam, and the resulting flat-top profile. MATLAB simulations
+are employed to demonstrate the efficiency of the method and
+optimize the beam shaper for uniform intensity.",
+manuscripts-papers,IoT and Supervised Machine Learning Factored Precision Agriculture: Enhancing Crop Yield Prediction ,"Abstract—Agriculture is a critical component of India’s econ-
+omy, yet many farmers lack access to advanced technologies
+that could enhance productivity and sustainability. This paper
+presents an innovative system that integrates Internet of Things
+(IoT) technology and supervised machine learning to address
+these agricultural challenges. Using a unique dataset sourced
+from reliable resources, including approximately 162,000 values
+related to soil moisture, soil temperature, and historical yield
+data, our proposed system leverages real-time data collection.
+Managed by a Raspberry Pi, our hardware setup incorporates
+soil moisture sensors, temperature sensors, and NPK sensors,
+ensuring continuous monitoring and data collection. The Random
+Forest Regressor model demonstrated an accuracy of 81% for
+the India model and 9",
+manuscripts-papers,Transforming Emergency Traffic Management: Cutting-Edge Real-Time Signal Control and Automated Alert,"Abstract—Urban traffic congestion is a persistent issue that
+often results in delayed emergency vehicle responses, leading
+to critical life-threatening outcomes. The challenge lies in
+efficiently managing traffic signals to prioritize emergency
+vehicles without causing significant disruptions to the flow of
+regular
+traffic.
+This
+research
+proposes
+an
+innovative,
+integrated
+traffic
+signal
+control
+system
+designed
+to
+dynamically
+adjust
+signals
+in
+real-time, based on live
+emergency call data and traffic conditions.
+The system leverages a combination of advanced software
+tools to achieve this goal. Traffic simulation tools like
+VISSIM are used to model the impact of these signal
+adjustments on urban traffic flow, providing a detailed
+analysis of potential improvements. For managing emergency
+call and traffic data, robust database management systems
+such as MongoDB are employed, ensuring fast, scalable, and
+real-time data handling. The core algorithms that control the
+traffic signals are developed in Python, enabling precise,
+rule-based
+signal
+changes
+that
+respond
+instantly
+to
+emergency vehicle needs. Additionally, GIS tools like ArcGIS
+are utilized to map and analyze optimal emergency routes,
+while data visualization software like QuickChart presents
+the outcomes of the simulations in a clear and impactful way.
+The proposed solution dynamically integrates real-time
+traf- fic data with emergency vehicle priorities, showing
+significant improvements in response times and overall traffic
+efficiency. Simulations demonstrate that emergency response
+times can be reduced by up to 30%, with minimal disruption
+to regular traffic patterns. Case studies from countries like
+the United States, Germany, Singapore, and the Netherlands,
+where similar systems have been successfully implemented,
+further validate the efficacy of this approach. This solution is
+poised to enhance public safety in densely populated urban
+areas by optimizing traffic signal management in a way that
+is both intelligent and adaptive.",
+manuscripts-papers,Low-Cost Electrochemical Sensor for Detection of Iron in Water Ashutosh Sahay CVEST IIIT Hyderabad H,"Abstract—Detection and continuous monitoring of iron in
+drinking water is essential for testing potability, environmental
+pollution and contamination. Many conventional methods are
+either too costly, bulky with limited accuracy and slow. In this
+paper, we present the design, fabrication and testing of a low-
+cost, portable electrochemical sensor for detecting iron content
+in water. We test by driving reaction using a reagent and change
+in reaction potential is observed using potentiostat. After this,
+we back-calculated to find the shift in ferrous ion concentration
+upon the reagent’s addition.",
+manuscripts-papers,Layer by Layer: Strengthening Deep Neural Networks Against Weight Perturbations Abstract —In this pa,"Abstract—In this paper we conduct a comprehensive vulner-
+ability analysis of Deep Neural Networks (DNNs) by applying
+various weight perturbation techniques, including scalar addi-
+tion, scalar multiplication, and bit-flipping, to the dense layers.
+These perturbations simulate scenarios such as noise, parameter
+changes, and hardware failures to evaluate the robustness of dif-
+ferent models. Our experiments involved systematically altering
+the weights in the dense layers of 10 DNN models using a range
+of scalar values and bit-flipping intensities. The results indicate
+that certain dense layers are more prone to these perturbations,
+significantly impacting the model’s performance. Additionally,
+given the resource constraints, we propose a targeted approach
+of using ECC memory for only the most vulnerable dense layers,
+optimizing the balance between reliability and resource usage.
+This analysis highlights the importance of safeguarding critical
+model components to enhance overall robustness, especially in
+environments susceptible to noise and adversarial conditions.",
+manuscripts-papers,Transition from Negative to Positive Parametric Dependence in Van Der Pol -Mathieu Oscillator - Base,"Abstract—Phononic frequency combs constitute an array of 
+equidistant vibrational frequencies. In this paper, we simulated 
+a van der Pol-Mathieu model to showcase that the drive 
+conditions can influence the sensitivity of phononic combs. We 
+showed that the equidistant spacing of phononic combs can be 
+made either positively or negatively sensitive to physical 
+perturbations. These results can have implications to sensing.",
+manuscripts-papers,"Lithography -free, fully -printed lithium phosphate - based humidity sensors on paper as zero -waste","Abstract—Electronic waste management is becoming an 
+increasing concern for the planet, especially because it is increasing 
+at a staggering rate of twenty percent per year. Therefore, various 
+green, 
+reusable, 
+sustainable, 
+and 
+decomposable 
+electronic 
+technologies are being sought after in recent times. Among these, 
+biodegradable paper electronics have emerged as one of the most 
+preferred and affordable solutions. Here, in this study, we 
+demonstrate a flexible and biodegradable humidity sensor based on 
+lithium phosphate with titanium carbide on a photo paper substrate 
+using lithography-free, all-printing technology that combines screen 
+printing and inkjet printing. The local acidic environment created by 
+the addition of acetic acid to the inkjet-printable lithium phosphate 
+ink helps in absorbing and desorbing humidity on the surface of the 
+printed lithium phosphate film. The paper-based humidity sensor 
+leverages excellent sensing performance for a wide range of relative 
+humidity values, with a substantially low response time and recovery 
+time when the relative humidity changes by an approximate amount 
+of fifteen percent. This study paves the way for a new generation of 
+environment-friendly, sustainable, flexible, inexpensive sensors to 
+provide sustainable sensing solutions in various applications, such 
+as agriculture, environment monitoring, healthcare, weather 
+prediction, etc.",
+manuscripts-papers,Efficiency Enhancement and Estimation of Photovoltaic Energy Generation Using Dual-Axis Tracking Sys,"Abstract—The global need to transform towards sustainable
+energy sources has increased the exploration of efficient methods
+to harness solar energy. Traditional solar panels, being stationary,
+often fail to capture the sun’s rays optimally throughout the day.
+This paper aims to address this challenge by introducing a dual-
+axis tracking system that dynamically adjusts the solar panel’s
+angle, ensuring maximum exposure to the sun. The developed
+system achieves a 27.67% average energy gain. It is paving the
+way for a future where solar energy is a primary, economic, and
+user-friendly power source in urban and rural areas. The dual-
+axis tracking system not only enhances energy generation but
+also estimates future energy generations.",
+manuscripts-papers,Design of sub-20nm Nanosheet FET Based Label Free Biosensor 1Ummadisetti Gowthami Department of Elec,"Abstract: In this paper, a Gate all around nanosheet field 
+effect transistor (GAA-NSFET) with two stack channel 
+as a label free biosensor has been proposed and 
+investigated by using visual TCAD tool. A nano-cavity 
+(18 nm) is inserted between the gate and channels of 
+nanosheet FET to immobilize the biomolecules. The 
+electrical characteristics of the biosensor are examined 
+in relation to various biomolecules, and it is found that 
+the suggested biosensor is sensitive to both charged and 
+neutral biomolecules. For each of the following 
+materials, a change in current is noted as a result of a 
+change in gate capacitance caused by a distinct 
+biomolecule: (ᴋ=1), (ᴋ=2), (ᴋ=5), and (k=10). The 
+threshold 
+voltage 
+(Vth), 
+current 
+switching 
+ratio 
+(Ion/Ioff), and subthreshold swing (SS) are used to study 
+the sensitivity variation of biosensors to both charged 
+and neutral biomolecules. For biomolecules (k=10), 
+sensitivity is higher than for (k=1, 2, and 5).",
+manuscripts-papers,Identification of long-term rainfall pattern and Moisture Adequacy Index for sustainable crop planni,"Abstract:
+Rainfall and soil water holding capacity play crucial roles in agriculture and reflect the implications of irrigation scheduling. The uncertainty of rainfall
+distribution and intensity makes it difficult for farmers to plan their intercultural activities. Due to that, agricultural productivity is affected every year. This requires
+identifying a region's rainfall pattern and moisture availability. According to the probable agroclimatic scenario, the farmer should plan the cropping pattern. The
+sustainable application of irrigation water to crop development will help progress the modern agricultural system. This leads to the definition of the Moisture
+Adequacy Index (MAI), which will differ based on the agroclimatic region and the phenological stages of every crop. This study analyzes rainfall patterns and
+estimates the Moisture Adequacy Index (MAI) for the Lower Brahmaputra Valley Zone (LBVZ) of Assam, India, using 32 years (1990-2021) of rainfall and temperature
+data. Annual and seasonal rainfall define the need for change in cropping patterns. From the findings, the agroclimatic atlas of cropping validate that direct-seeded
+summer rice sowing can commence from the 13th Standard Meteorological Week (SMW) with MAI of 0.6-0.7. Kharif rice nursery sowing is optimal between the 21st
+and 26th SMW, corresponding to MAI values of 0.8-",
+manuscripts-papers,Estimation of Angle of Significance in Human Joint Angles Using Extended Kalman Filter and Principal,"Abstract—Human Motion Analysis (HMA) is a pivotal multi-
+disciplinary field that leverages advanced signal processing and
+machine learning techniques to interpret human movement pat-
+terns. This paper explores a newly developed wireless wearable
+device that consists of Inertial Measurement Unit (IMU) sensors
+along with its usage in the estimation of human joint angles using
+a combination of Extended Kalman Filter (EKF) and Principal
+Component Analysis (PCA). The integration of EKF, a dynamic
+algorithm adept at estimating joint angles while accounting
+for noise, and PCA, a technique for dimensionality reduction
+and principal component identification, enhances the precision
+of motion analysis. Additionally, the results obtained in this
+study are validated using YOLOv7, ensuring the reliability and
+accuracy of the joint angle estimations. Hence, the study explains
+the collective effort of the design of the IMU-based wearable
+device, data collection, analysis, and validation of the joint
+angle estimations highlighting the accuracy and applicability of
+results in various domains, including medical diagnostics, sports
+performance, and industrial applications.",
+manuscripts-papers,"Non-invasive method to detect potato quality in warehouse Shrikant Kapse PSRA TCS Research Pune , In","Abstract— Potatoes are one of the world's most important 
+food crops, providing essential nutrients like carbohydrates, 
+vitamins, and minerals to millions of people. They are versatile 
+and consumed in various forms such as chips, fries, fritters etc., 
+making them a dietary staple in many cultures. Potato wastage 
+in warehouses and the supply chain is a significant issue, often 
+driven by improper storage conditions such as fluctuating 
+temperatures and humidity levels, which accelerate spoilage and 
+lead to substantial weight loss and quality degradation. 
+Inefficiencies in monitoring these conditions contribute to 
+economic losses, highlighting the need for improved storage 
+practices. In this work, a non-invasive method to detect quality 
+of potatoes using an IoT based sensor system consisting of 
+temperature, humidity and carbon dioxide (CO2) sensors has 
+been described. CO2 respiration rate of potatoes was analyzed, 
+and the resultant data was analyzed and compared with the 
+weight loss in potatoes which was also measured from time to 
+time. A correlation between weight loss measurements with CO2 
+levels was observed, thus establishing a non-invasive method to 
+assess potato quality continuously.  This proactive method 
+enhances the ability to monitor and maintain optimal storage 
+conditions, reducing spoilage and waste, and leading to better 
+quality control and minimized losses in the supply chain.",
+manuscripts-papers,L-Cysteine Modified Silver Nanoparticles: Mechanistic Insights for Trace Cadmium Detection in Water ,"Abstract— Cadmium (Cd²⁺) contamination poses significant 
+environmental and health risks due to its toxicity and 
+persistence. In this study, we developed a sensitive and selective 
+colorimetric sensor using L-cysteine (LC) functionalized silver 
+nanoparticles (AgNPs) for Cd²⁺ detection in water, with a 
+detection limit of approximately 0.3 ppb. The interaction 
+between L-cysteine functionalized AgNPs and Cd²⁺, attributed 
+to the strong binding affinity of the thiol group (-SH) on L-
+cysteine, was demonstrated through UV-Vis spectroscopy and 
+supported by computational studies. After being exposed to 
+Cd²⁺, the Ag⁺ ion was replaced and characterized by a shift in 
+absorbance as well as changes of bond types, showing higher 
+reactivity between L-cysteine and Cd²⁺. The viscosity of the LC-
+AgNPs solution measured at approximately",
+manuscripts-papers,Scalable Sensor Technology for Effective Moisture Management and Agricultural Food Security Carlo N.,"Abstract—The integration of Internet of Things (IoT) 
+technology in the agricultural sector using advanced sensor 
+systems has garnered significant interest in the recent year, 
+especially in promoting food security. This study shows an 
+application of this to Spondias purpurea (Philippine Pias Prunes), 
+an important fruit in the Philippine Archipelago. The developed 
+system places significant importance on the connection of Internet 
+of Things (IoT) devices and the Google Cloud Platform. This 
+integration enables real-time monitoring, data storage, and 
+analysis, therefore providing valuable insights into enhancing the 
+drying process and mitigating spoilage by maintaining moisture 
+levels within the recommended range of 12-14%. The technology 
+provides farmers with the opportunity to extend the shelf life of 
+the prunes, reduce food wastage and increased profitability. While 
+the system focused on Spondias purpurea, the system is highly 
+adaptable and scalable to other fruits and crops. The research 
+employed a DHT11 sensor that is linked to a Raspberry Pi 
+Microcontroller, together with a Google Cloud-Based Platform for 
+the purpose of data storage and processing. Results of the 
+experiments indicate that the temperature measurements remain 
+consistent at varying conditions. Moreover, the humidity levels 
+remain to be high while the prune’s moisture content continue to 
+be steady. To enhance the system's functionality, future 
+endeavours should focus on integrating the system with other 
+agricultural processes. Additionally, it is recommended to 
+broaden the scope of the cost-benefit analysis by considering 
+aspects such as the initial investment, maintenance costs, energy 
+consumption, and potential rewards in terms of product quality, 
+loss reduction, and increased output.",
+manuscripts-papers,Design and Development of a Feasibility Prototype for the Non-Invasive Detection of Fat Content in M,"Abstract—The detection of the presence of fat content in milk
+is important to ensure the quality of milk. An easy-to-use sensor
+that utilises non-invasive spectroscopic methods to differentiate
+milk that does and does not contain fat content in different
+quantities has thus been developed and experimented with as
+a part of this feasibility study. The experiment showcases the
+differences in the way light from sources such as UV and Laser
+interacts with containing increasing amounts of fat content. The
+experiment also shows the effect of fat presence in light during
+scattering and transmission. The data thus shows promising
+results for the detection of fat content in milk using a simple
+sensor design.",
+manuscripts-papers,Self-Supervised Transformers for Long-Term NDVI Landsat Time Series Prediction Ido Faran Dept. of Co,"Abstract—Long-term satellite image time series (SITS) analysis
+presents unique challenges in remote sensing, particularly for
+heterogeneous Mediterranean landscapes, due to complex tem-
+poral dependencies, seasonality, and global trends. We propose
+a novel approach combining self-supervised learning, temporal
+embedding, and a transformer-based architecture for analyz-
+ing multi-decade Landsat data. Our method employs a self-
+supervised pretext task to train a transformer model on unlabeled
+data, integrating a temporal embedding technique that captures
+both long-term trends and seasonal patterns. This architecture
+effectively handles complex temporal dependencies, enabling
+Normalized Difference Vegetation Index (NDVI) predictions for
+various time horizons. Evaluation using Landsat images from
+1984 to 2024 over Israel explores model performance with
+varying input sequence lengths and prediction horizons (from",
+manuscripts-papers,Enhanced Temperature Sensing in DNTT -based Hybrid D ielectric (HfO 2/PMMA) OTFT for Biomedical and ,"Abstract— This study explores the performance of an 
+organic thin-film transistor (OTFT) as a temperature sensor 
+over a range of 273K to 333K, utilizing a DNTT-based OTFT 
+with a hybrid dielectric layer of HfO2/PMMA modelled using 
+Silvaco ATLAS. At room temperature, the OTFT exhibits high 
+electrical performance, characterized by a threshold voltage of",
+manuscripts-papers,Adaptive Single Micro-Particle Detection and Segmentation in Self-Mixing Interferometry Signals Seba,"Abstract—This paper introduces a signal processing algorithm
+for micro-particle detection using the self-mixing interferometry
+(SMI) sensing scheme. Processing the laser output power mod-
+ulation caused by the transit of single particles, the algorithm
+effectively segments the SMI signal associated with each particle.
+The algorithm was validated on the segmentation of different-size
+particles (2, 4, and 10 µm), and its performances are compared to
+the more established spectral amplitude detection method. The
+results highlight the SMI technique’s potential for micro-particle
+analysis and facilitate the adoption of new signal processing
+algorithms to improve signal feature extraction.",
+manuscripts-papers,"Vibration sensors basedonfemtosecond laser direct-write microcantilever beam Yunfeng Liao,Misheng Li","Abstract-In this paper, a photolithography-free and chemical
+reagent-free
+one-step
+fabrication
+method
+for
+mems
+microsensors is proposed. By
+precisely
+controlling
+the
+parameters of femtosecond laser processing, an acoustic
+microsensor with high dimensional accuracy and stable
+structure is fabricated. The time and frequency domain
+detection
+of
+vibration
+signals
+generated
+by
+small
+displacement changes caused by vibration is realized. With
+this fabrication method, the fast response of the microsensor
+can be realized, and the customized mems devices can be
+fabricated in real time according to the actual application
+needs at low cost without relying on the expensive clean room.",
+manuscripts-papers,Design and Implementation of a Secure V oting Machine Using DE-10 Nano FPGA With Verilog Sudheer Red,"Abstract—This paper presents the design, implementation, and
+testing of a secure voting machine system utilizing the DE-10
+Nano FPGA and Verilog programming. The system integrates
+an LCD for displaying results, a fingerprint sensor for voter
+authentication, and external push buttons for vote casting. The
+system was tested with 5 party candidates and 4,000 participants,
+demonstrating its capability to accurately count votes, display
+individual vote counts, and declare the winner. The voting process
+is controlled through an admin code, push buttons, and slide
+switches for mode operations. Additionally, the system calculates
+the total poll percentage, adding another layer of insight into
+voter turnout. Voter data, including fingerprints, were securely
+stored on an Azure Cloud platform, with the total information
+including all 10 fingerprints of each voter and their detailed
+voter information. The paper includes result images of the
+front-end website page and Azure cloud storage page, as well
+as simulation results, RTL block diagrams, related tables, and
+FPGA prototyping images, highlighting the system’s efficacy and
+potential for real-world applications.",
+manuscripts-papers,A calibration method for improved linearity and range of non-contact position sensors Aakash Dewanga,"Abstract—Lateral effect position sensing detectors (PSDs) are
+used in contactless precise position measurement applications
+due to their high resolution, noise immunity and fast response.
+However, non-linearity at the ends of the measurement range
+of these sensors limits accuracy and range to about 64% of
+the active area. This paper presents an experimental approach
+for constant sensitivity calibration to utilize more active area
+of such lateral effect PSDs. In the proposed approach, two
+signals from a 1-D PSD are fused using a variety of simple
+mathematical laws, to obtain constant sensitivity and extended
+position measurement range. The proposed approach is com-
+pared with the conventional methods reported in the literature,
+demonstrating an increased measurement range. The proposed
+approach is generalizable to other type of sensors such as, giant
+magnetoresistant (GMR), quadrant photodiode (QPD), etc. that
+exhibit similar non-linearity.",
+manuscripts-papers,Opto -electronically derived PPG-based non- invasive sensor for multiparameter detection T A Amrut h,"Abstract— In recent years, the integration of advanced 
+technology and healthcare has initiated a transformative 
+shift in non-invasive diagnostic methodologies for clinical 
+diagnostics. When combined with machine learning 
+algorithms, these tools have the potential to markedly 
+improve the precision, efficiency, and ease of blood 
+parameter estimation, offering significant benefits to both 
+patients and healthcare providers. Here an optoelectronic 
+device is used to collect the photoplethysmography (PPG) 
+data which is further used to extract other health 
+parameters such as pulse rate, diastolic and systolic blood 
+pressure, and blood oxygen saturation. By leveraging 
+machine learning models, these extracted features are 
+analysed to provide accurate and real-time assessments of 
+parameters such as BP, SPO2. These are compared with the 
+standard patient data. Systolic and diastolic BP predictions are 
+made using Random Forest Regressor algorithm. R2 score was 
+found to be 0.939 and 0.868 for systolic and diastolic BP 
+respectively. Based on the predictions, a Decision Tree Classifier 
+is used to classify subjects into three classes: Hypotension, 
+Normal, and Hypertension. An accuracy of 80% is achieved in 
+the classifier model. Also, for SPO2 estimation R2 was 0.868 and 
+correlation coefficient was 0.931 between actual and predicted 
+SPO2 values. Based on the results obtained, non-invasive 
+method guided by machine learning algorithms are seen to pave 
+a new way towards diagnostics.",
+manuscripts-papers,Characterization Method of Photodiodes for Sensing Applications Goutam Sutradhar CVEST IIIT Hyderaba,"Abstract—The paper describes a platform for quick char-
+acterization of photodiodes exploring low reverse bias perfor-
+mance for various sensing applications. We demonstrated the
+method on a widely used photodiode, BPW34. An Arduino-
+based automated system is utilized to sweep biasing voltages and
+record photocurrent responses using a sense resistor. The BPW34
+photodiode shows a higher response for red LASER light, with
+a photocurrent of around 260µA. Various light sources are also
+tested and the results are reported. These results are analyzed
+and interpreted with context to the existing literature.",
+manuscripts-papers,Efficient Reverse Navigation Technique for Autonomous Vehicles: Leveraging Front-Side Single Lidar f,"Abstract—The
+front-facing
+lidar
+is
+extensively
+used
+to
+navigate the vehicle forward and detect obstacles. However,
+when this lidar is employed for reverse navigation, the vehicle
+faces the challenge of having two possible directions upon
+turning, leading to a decreased chance of precisely tracing its
+original path. This study presents two methods to address this
+issue: (i) Initial steering rotation adjustment and (ii) One
+directional Steering signal method. The findings demonstrate
+that both approaches enhance the accuracy of the reverse
+movement path followed by the vehicle. So this method reduces
+the dependency on multiple lidar sensors; a single lidar
+installed on the front side of a vehicle can be used for
+forwarding and reverse navigation.",
+manuscripts-papers,"Volume 2(3) (2017) 1949- 307X © 2016 IEEE. Personal use is permitted, but republication/redistributi","Abstract— Structural health monitoring (SHM) broadly represents damage detection technologies of structures and 
+constructions. The core of our research lies in the application of advanced Artificial Intelligence (AI) techniques in SHM 
+of a structural assembly using vibration responses. A machine learning model is trained using the collected data to detect 
+and localize defects within a rocket structural assembly. By leveraging AI's pattern recognition capabilities, we aim to 
+accurately identify the extent and precise location of any structural anomalies or defects. A Finite Element Model (FEM) 
+is employed to simulate the structural behavior in presence of damages and generate a rich dataset of vibration 
+responses. This dataset forms the basis for subsequent analysis and machine learning training.  The proposed approach 
+has the potential to improve the safety and reliability of rocket launches by providing early warning of potential failures.",
+manuscripts-papers,Towards Robust Perception: A Framework for Combining Point Clouds from Multiple LiDARs C.A. Rakshith,"Abstract—The increasing deployment of autonomous systems
+in complex environments demands robust perception capabilities.
+Light Detection and Ranging (LiDAR) sensors, while critical
+for providing high-resolution spatial data, often face cover-
+age limitations, leading to blind spots. This paper presents a
+novel framework that mitigates these blind spots, which are
+prominent when using a single LiDAR, by integrating point
+clouds from multiple strategically placed LiDARs. Our method
+eliminates the need for complex external calibration by em-
+ploying Temporal and Spatial alignment techniques to construct
+a comprehensive environmental representation. This approach
+effectively addresses alignment challenges and reduces blind
+spots. Experimental results show significant improvements in
+spatial coverage, object detection, and environmental understand-
+ing without compromising localization. The proposed scalable
+framework enhances the perception capabilities of autonomous
+systems, contributing to safer and more reliable operations.",
+manuscripts-papers,Electrochemical Detection of E. coli Using Polysaccharide Modified ZnO Nanoparticles Vedashree Sirde,"Abstract— Recently zinc oxide nanoparticles (ZnO) have been 
+explored extensively for various application in sensing 
+equipment and detection methods due to their desirable 
+characteristics. In the present study, a sensitive and selective 
+immunosensor has been developed for the detection of 
+pathogenic strain of E. coli using polysaccharide modified ZnO 
+nanoparticles (ZnO-PCs). With varying compositions of Locust 
+bean gum (LGB), chitosan, and LBG-CS composite, ZnO-PCs 
+were prepared by surface modifications and labelled as ZnO-
+LBG, ZnO-CS, and ZnO-CS-LBG, respectively. Further, 
+synthesized ZnO-PCs were characterized using Fourier 
+transform infrared spectroscopy (FTIR), Scanning electron 
+microscopy, 
+and 
+X-Ray 
+diffraction 
+(XRD) 
+analysis. 
+Subsequently, SPCEs (Screen Printed Carbon electrodes) were 
+modified with multiple samples containing ZnO, ZnO-LBG, 
+ZnO-CS, and ZnO-CS-LBG, respectively, and electrochemical 
+measurements were taken for the detection of E. coli in the 
+concentration range of 1-10 cfu/ml. The study showed the ZnO-
+CS-LBG composite to be more effective when compared with 
+bare ZnO and other nanocomposites. The employment of LBG 
+in synthesizing the ZnO-PCs composite electrode was found to 
+accelerate the sensitivity of the developed biosensor and 
+depicted a stronger linear response in the range of 1-10 cfu/ml 
+with a coefficient of determination (R2) value of 0.98.",
+manuscripts-papers,PdSe 2 doped ZnO for highly selective hydrogen sensing Aarthi S M Junior Research Fellow Indian Inst,"Abstract—Materials with good selectivity and response, 
+which work at room temperature, are essential to be used 
+as a gas sensor. Transition metal dichalcogenides (TMDs) 
+represents a class of two-dimensional materials with 
+excellent electronic, chemical and optical properties. 2D 
+materials are highly advantageous because atomically 
+thin 2D sheets have high surface-to-volume ratios, and 
+most of the atoms are exposed to the atmosphere. The 
+modification of TMDs by metal oxide doping can improve 
+their performance in gas sensing applications. In this 
+work, we have selected PdSe2, a transition metal 
+dichalcogenide doped with ZnO, a semiconducting metal 
+oxide for making a highly selective room temperature 
+hydrogen gas sensor with a sensing response of 34.45%.",
+manuscripts-papers,Plasmonic Fiber optic Absorbance Biosensor for Rapid and Real -time Detection of SARS -CoV -2 in Nas,"Abstract— The Covid-19 has highlighted the absolute need for 
+sensitive, rapid and highly reliable diagnosis of infectious 
+diseases with high precision in case of such pandemics in future. 
+In this work, a plasmonic fiber optic absorbance biosensor (P-
+FAB) was designed and deployed for SARS-CoV-2 N-protein 
+detection in clinical samples.  A simple two-step protocol was 
+developed to test the sensor with naso- and oro-pharyngeal 
+samples encompassing confirmed SARS-CoV-2 cases and 
+healthy controls. A handheld read out device with fiber optic 
+sensor cartridge was developed to allow simple, dip-type 
+analysis in 20 mins. The results from 10 positive and 5 negative 
+samples demonstrate 80 % sensitivity and 100 % specificity of 
+the P-FAB. As validated through comprehensive clinical testing, 
+the developed sensor reflects the enhanced diagnostic 
+capabilities, with immense scope for guided interventions 
+during infectious diseases outbreaks.",
+manuscripts-papers,AutoGrow RL - Adaptive input control of an IoT based Autonomous Greenhouse System for Precision Farm,"Abstract—Precision
+farming
+is
+transforming
+conventional
+farming
+by
+improving
+productivity
+and
+reducing
+resource
+wastage. In this paper, we present AutoGrow RL, an enhance-
+ment of the IoT-based AutoGrow autonomous greenhouse system
+[1] through the integration of Reinforcement Learning (RL).
+The IoT system monitors key environmental parameters like
+temperature, moisture, humidity, pH, and nutrients(Nitrogen,
+Phosphorus, and Potassium), while the RL model optimizes real-
+time decisions on resource usage. Simulations of the system
+demonstrate the potential to optimize water and nutrient wastage
+and improve crop yield, offering a step forward in autonomous
+agriculture.",
+manuscripts-papers,A Fiber Optic Sensor Modified with Cobalt Doped Molybdenum Oxide Based Metal -Organic Framework for ,"Abstract—: Presence of water pollutants pose severe 
+concerns for human health and environment. Heavy 
+metal ions such as Arsenic (As) is highly toxic and pollutes 
+the environment causing adverse health effects. Several 
+materials have been developed as receptors to address 
+this issue. A fiber optic sensor modified with cobalt-doped 
+Molybdenum based MOF is developed to selectively 
+target the As (V) ions. The developed sensor exhibits 
+significant changes in the absorption response, towards 
+As (V) ions by interacting with the analyte, thereby 
+leaving the U-FOS surface. The study can be further 
+extended and translated for field deployable device for 
+future environmental applications.",
+manuscripts-papers,Turning Novel V2O5 Nanostructures into High - Performance Supercapacitive Energy Storage Materia l A,"Abstract— Nanomaterials, with their unique properties, are 
+promising for energy storage electrodes. This study highlights 
+developments in synthesizing Vanadium oxide nanostructures 
+and applying them as electrode materials in supercapacitors. 
+The material under consideration is vanadium pentoxide. A 
+novel method is devised to synthesize the same. This material is 
+chosen because of its good cycling stability, which indicates – 
+stable capacitive performance over many charging-discharging 
+cycles. This is an important property for any supercapacitor 
+material used in practical applications. A comparison is drawn 
+among various aqueous electrolyte solutions and various kinds 
+of nanostructures being utilized in supercapacitors. Examples of 
+the 
+latter 
+include 
+nanosheets/nanoflakes, 
+nanoparticles, 
+nanorods, and nanofibers etc. A greener approach has been used 
+to 
+synthesize 
+carbon-coated, 
+nitrogen-doped 
+vanadium 
+pentoxide nanosheets. The carbon layer on a well-resolved 
+unique flaky/sheet-like structure facilitates ion transportation 
+during a faradaic redox reaction, which resulted in maximum 
+specific capacitance of 759 F g-1, while tested in coin cell form.",
+manuscripts-papers,Oscillating Air-Liquid Interface: A Novel Approach for In-channel Microfluidic Mixing Vinaya Centre ,"Abstract—Microfluidic mixing is a vital process in lab-on-a-
+chip technology. The precise and controllable mixing of the sam-
+ples is required for high specificity, throughput and low reagent
+consumption.This study offers a novel strategy to enhance the
+mixing efficiency in microfluidic devices using air-liquid interface
+(ALI) oscillations combined with ridge structures. Oscillations of
+up to 7 micrometers are induced by a piezoelectric transducer,
+significantly improving mixing performance, with the Relative
+Mixing Index (RMI) increasing from 0.8109 to 0.9292. The ridge
+design further enhances mixing by generating micro-vortices,
+working synergistically with the ALI oscillations.",
+manuscripts-papers,Low-cost portable ECG device using ESP32 microcontroller Valiveti Venkata Srikar Electronics and Com,"Abstract— Heart diseases are pervasive, necessitating 
+crucial monitoring; however, the high costs and frequent 
+hospital visits pose substantial challenges. Addressing this 
+issue, 
+the 
+proposed 
+project 
+introduces 
+a 
+portable 
+Electrocardiogram (ECG) monitoring device that leverages 
+the ESP32 microcontroller and AD8232 modules. Employing 
+a single-lead ECG setup, the system captures user heart rate 
+data, subsequently processing and displaying it on a web 
+interface. To enhance accuracy, various filtering techniques 
+are implemented to mitigate common noise sources such as 
+baseline noise and powerline interference. The device is 
+designed 
+with 
+user-friendliness 
+in 
+mind, 
+ensuring 
+accessibility for individuals lacking technical expertise. Its 
+portability and simplicity make it a convenient tool for 
+monitoring cardiac health in diverse settings. Additionally, 
+the acquired ECG data is efficiently transmitted to users via 
+text email, providing a seamless and informative experience.",
+manuscripts-papers,Comparison of Multilateration using Wi-Fi RSSI and 5G ToA in a High School Scenario Vladimir Bellavi,"Abstract—This study explores indoor positioning using wireless
+technologies, specifically 5G NR and WiFi (2.4 GHz and 5 GHz)
+frequencies, applying multilateration techniques, which are used
+natively in 5G NR (New Radio), and the KNN (k-Nearest
+Neighbors) supervised learning algorithm. In order to apply these
+positioning techniques, we will use RSSI value, due to it is ease of
+use in real-life situations, and the Time of Arrival parameters,
+as this is the value used in the 5G NR integrated positioning
+protocol, known as LMF (Location Management Function). The
+core objective is to compare the positioning accuracy of 5G
+NR and WiFi and investigate if there is improvement using 5G
+NR and what this improvement is. For this study, the EMSlice
+simulation solution was chosen, which has been configured to
+mimic a real high school. The generated measurements have
+been compared with real samples to check their quality level.
+This comprehensive comparison aims to provide insights into the
+advantages and limitations of each technology in various indoor
+scenarios, contributing to the advancement of reliable indoor
+positioning systems.",
+manuscripts-papers,Development of Drive Cycles for Urban Transit Buses using GNSS and IMU Data Fusion Parth Joshi Depar,"Abstract—Drive cycles are usually synthesized by using dedi-
+cated GPS tracker devices installed on the vehicle which has the
+potential to alter the true driver behaviour. In this work, portable
+hand-held data logging devices for collecting the position and
+speed data from a GNSS module and the acceleration, angular
+velocity and magnetic field signals from an IMU sensor are
+developed. These data logging devices can be carried onboard a
+vehicle, for example, by a passenger travelling on an urban transit
+bus. The data from the GNSS and IMU sensors can be fused to
+obtain an improved estimate of the vehicle position and speed.
+The aim of this work is to use these data loggers to collect data
+for a large number of trips over typical congested urban transit
+bus routes in developing economies such as India. These data
+can be analysed further to extract a drive cycle that represents
+the key features of the recorded data.",
+manuscripts-papers,Laser Induced Graphitic Carbon on Kevlar Cloth: a Promising Material for Electrochemical Sensing Md ,"Abstract— In this work, we present the development of 
+Laser-Induced Graphitic Carbon (LIGC) electrodes on flexible 
+Kevlar cloth and show their potential use as wearable 
+electrochemical sensors. Kevlar was converted into LIGC 
+using a low-cost hobbyist 450 nm laser, highlighting a cost-
+effective method for creating graphitic carbon on cloth. Laser 
+parameters were optimized to achieve low sheet resistance. 
+Morphological and spectroscopic characterization revealed 
+that LIGC had an intricated 3D porous morphology and 
+confirmed 
+the 
+formation 
+of 
+sp² 
+hybridized 
+carbon. 
+Electrochemical analysis in [Fe(CN)6]4−, Fe2+/3+ showed a quasi-
+reversible electron transfer mechanism on the graphitic carbon 
+surface, primarily dominated by mass diffusion processes.",
+manuscripts-papers,Analysis of Magnetic Field Sensing Capability of Diamond Embedded with Nitrogen Vacancy Center Ambik,"Abstract—This paper presents the analytical study of the mag-
+netic field sensing capability of nitrogen-vacancy (NV) centers in
+diamonds. The analytical expression for signal-to-noise ratio and
+magnetic field sensitivity is obtained as a function of decoherence
+time, noise constant, and gyromagnetic ratio of the NV center.
+It is shown that the effect of miniaturization of sensors can
+be compensated with the help of an amplifier at the sensor’s
+surface. The comparison of sensitivity with and without amplifier
+is obtained to quantify the improvement. The novelty in this
+work is validating the pulse sequences as a quantum circuit on
+quantum device simulator, and estimating analytical sensitivity
+parameter with and without the amplifier for comparison.",
+manuscripts-papers,Investigation on the etching characteristics of Si{100} in low concentrations of TMAH solution s for,"Abstract—This study examines the wet anisotropic etching 
+behavior of Si{100} using various low-concentrated TMAH 
+solutions (i.e., 1 wt%, 2 wt%, 3 wt%, and 4 wt%), without and 
+with the addition of 1000 ppm of Triton-X-100 as a surfactant. 
+In this work, a thin film of SiO2 acted as a masking layer as well 
+as a structural layer. Key etching characteristics such as etch 
+rate, undercutting rate, and average surface roughness of Si are 
+investigated in the corresponding etchant solution. Relatively 
+high etch rate, undercutting rate, and average surface 
+roughness are attained when pure TMAH solutions are utilized. 
+However, the addition of Triton-X-100 significantly reduced the 
+etch rate and undercutting rate and smoothened the etched 
+surface. The favorable etchant solution to achieve optimum etch 
+rate and undercutting rate with a smooth etched surface is 
+identified to be 4 wt% TMAH with Triton X-100.",
+manuscripts-papers,The Role of Industry 4.0 Technologies for Smart Manufacturing in the Indian Scenario Prajakta Chandr,"Abstract— The fourth industrial revolution brought a 
+paradigm 
+transition 
+in 
+the 
+manufacturing 
+sector 
+by 
+emphasizing 
+digitization, 
+automation, 
+and 
+information 
+technologies. It introduced various Industry 4.0 technologies, 
+which enabled the manufacturing industry to become smarter 
+and more adaptable to the dynamic business environment. 
+However, there is a lack of comprehensive research on the 
+crucial role of a technological revolution in achieving 
+performance improvement in manufacturing operations. The 
+aim of this study is to investigate the latest advancements in 
+manufacturing systems and provide a thorough analysis of their 
+connection with Industry 4.0 technologies. This study proposed 
+a conceptual framework for a smart manufacturing system 
+based 
+on 
+integrating 
+Industry 
+4.0 
+technologies 
+with 
+manufacturing operations. This framework is made up of six 
+domains, namely, smart design, smart production, smart 
+inventory, smart quality, smart maintenance, and smart 
+delivery. The finding of this study shows that adopting Industry 
+4.0 technologies facilitates energy optimization, resource 
+consumption, productivity enhancement, quality improvement, 
+and shorter lead time in smart manufacturing systems. The 
+applications of smart manufacturing systems in the context of 
+Indian industrial sectors are outlined in this research. This 
+study will help researchers and managers understand the 
+mechanism of smart manufacturing while achieving higher 
+performance in the industry. The recommended research 
+direction will serve as a path for researchers to conduct further 
+research in this area.",
+manuscripts-papers,Optimization of GNSS/IMU Positional Accuracy with Kalman Filtering and RTK Corrections for Autonomou,"Abstract—Autonomous vehicle technology depends on precise
+navigation systems that are vulnerable to GNSS signal dis-
+ruptions. This research investigates the integration of GNSS
+and inertial measurement unit (IMU) sensor data through a
+tightly coupled integration (TCI) method using the Kalman
+filter (KF) and extended Kalman filter (EKF). Combining raw
+GNSS carrier phase and pseudo-range measurements with IMU
+data enhances sensor efficiency and resilience to outliers. This
+study also assesses the effectiveness of real-time kinematic (RTK)
+corrections with KF and EKF. Our findings demonstrate that
+the EKF significantly improves positional accuracy by effectively
+mitigating non-linear errors in the tightly coupled integration of
+GNSS/IMU measurements. Specifically, EKF reduces the 2DRMS
+(horizontal) error from 0.780m to 0.719m and the 3DRMS
+(vertical) error from 0.390m to 0.359m when integrated with
+RTK. These results highlight the importance of advanced filtering
+and sensor integration for enhancing navigation accuracy, which
+is crucial for the safety and performance of autonomous vehicles.",
+manuscripts-papers,"Biohybrid Sensors for Underwater Monitoring Niharika Gogoia, Nikolaus Helmerb, Chao Wua, Ronald Then","Abstract—With the rising climate change and its consequences
+on the aquatic biosphere, long-term underwater monitoring has
+become an important topic of research. In this regard, the
+project Robocoenosis puts forward an innovative concept of
+establishing a symbiotic association of different living organisms
+and mechatronic components to design an autonomous long-term
+monitoring system. In this paper, we propose a novel biohybrid
+sensor organ using freshwater mussels as biological sensors. The
+behavior of mussels is related to the nature of their habitat. The
+presence of toxic compounds, weather changes, and impromptu
+human actions, to name a few, affect their behavior. The main
+goal is to extend conventional long-term monitoring methods by
+adding biohybrid sensor organs for a comprehensive study. Two
+types of sensors are implemented to monitor the behavior of zebra
+mussels. The results demonstrated that the proposed sensor organ
+could be a valuable addition to long-term underwater monitoring.",
+manuscripts-papers,“Eye Controlled Wheel Chair Monitoring System for people suffering from Quadriplegia” Abstract — The,"Abstract— The development of an Eye-Controlled Wheelchair Monitoring 
+System (ECWMS) leverages advancements in digital image processing and 
+eye-tracking technology to enhance the mobility and independence of 
+individuals with severe motor impairments. This project integrates 
+Raspberry Pi and OpenCV to create a cost-effective and efficient solution 
+that translates eye movements into wheelchair control commands. The 
+system is designed to operate in real-time, providing an intuitive interface 
+for users who may find traditional joystick or switch-based controls 
+challenging to use. Despite demonstrating feasibility and effectiveness, the 
+current prototype faces several challenges. The processing time, currently 
+around four seconds, introduces a delay that impacts the responsiveness of 
+the wheelchair. Additionally, the system's performance is highly dependent 
+on lighting conditions, performing optimally in well-lit environments and 
+struggling in lowlight conditions. Safety features, such as obstacle 
+detection and automatic stopping, are critical and need further refinement 
+to prevent unintended movements and collisions. Future enhancements aim 
+to address these limitations by improving the real-time processing 
+capabilities and making the system adaptable to varying lighting 
+conditions. Integration with smart home devices and additional control 
+functionalities will further enhance user independence. Extensive field 
+testing, collaboration with healthcare professionals, and iterative 
+development based on user feedback are essential for creating a 
+commercially viable and user-friendly product. The ultimate goal is to 
+provide a reliable and accessible assistive technology that significantly 
+improves the quality of life for individuals with mobility impairments.",
+manuscripts-papers,Flexible Organic Photodetectors with PEIE Electron Transport Layer for Ambient Light PPG Sensing Hos,"Abstract—The focus of this research is on developing and 
+studying flexible organic photodetectors (OPDs) that utilize 
+polyethyleneimine ethoxylated (PEIE) as the electron transport 
+layer (ETL). The flexible OPD employs a conductive PEDOT: PSS 
+anode on a flexible PET substrate. By using polyethyleneimine 
+ethoxylated (PEIE) as an Electron Transport Layer (ETL) in 
+flexible OPDs, the dark current is reduced by one order of 
+magnitude and the photocurrent is increased by 60% at -2V bias. 
+This results in a 14 dB increase in the linear dynamic range (LDR) 
+compared to conventional LiF ETL in flexible OPDs. By making 
+these improvements, the flexible OPD with PEIE can detect 
+photoplethysmography (PPG) signals even in ambient light 
+without LED usage. Acquiring the PPG signal under ambient light 
+conditions opens possibilities for the development of low power 
+PPG sensing wearables.",
+manuscripts-papers,A low-cost point -of-care biosensor for Interleukin -6 detection Greeshma Nechikat Dept. of Biomedic,"Abstract— Interleukin-6 (IL-6) is an inflammatory cytokine that 
+plays an important role in cancer. Its elevated level is indicative of 
+metastasis during cancer. In this work, we have shown the 
+development of a biosensor to detect IL-6. The device is fabricated 
+using a screen-printed carbon electrode, surface-modified with 
+electrodeposited gold. Further, an anti-IL-6 antibody was 
+immobilized on the electrodeposited gold to detect IL-6. Various 
+electrochemical analyses such as cyclic voltammetry (CV) and 
+differential pulse voltammetry (DPV) were performed, and results 
+show that the device exhibits a limit of detection (LOD) of 1 pg/ml. 
+This work presents a simple and cost-effective, proof-of-concept 
+device that can potentially be used as a point-of-care diagnostic tool 
+for IL-6 detection, eliminating the need for complex surface 
+modification strategies.",
+manuscripts-papers,Stover Nitrogen Estimation in Groundnut Using Hyperspectral UA V Imagery and Machine Learning Adduru,"Abstract—Crop residues (CR) are a significant fodder resource
+for livestock animals in smallholder mixed farming systems. The
+crop improvement teams are working to enhance CR quality,
+such as nutritional stover nitrogen and quantity. However, the
+major challenge is the assessment of hundreds of genomic
+varieties under actual field conditions, which is called plant
+phenotyping. Unmanned aerial vehicle (UAV) based hyperspectral
+imaging (HSI) techniques have proven potential to accelerate
+phenotype studies due to their extensive coverage, high spatial
+and spectral resolutions, low revising periods, etc. This study
+explored the potential of UAV-based HSI in 400-1000 nm for
+stover nitrogen (stoverN) content estimation in groundnut canopy.
+We have presented a detailed pipeline to analyze UAV-based
+HSI data for stoverN estimation. We explored different machine
+learning (ML) feature ranking methods to reduce the HSI
+data dimensional by choosing a few important wavelengths
+to efficiently estimate stoverN. We could estimate groundnut
+stoverN with R2, MSE, MAE, and MAPE as 82.33%, 0.024,
+0.123, and 3.91%, respectively, using only 64 available samples.
+This study serves as a starting point to explore stoverN analysis
+with HSI data and helps the agriculture sector accelerate crop
+phenotype studies.",
+manuscripts-papers,Design and Implementation of Approximate Multiplier Using Approximate 4-2 Compressors and Approximat,"Abstract—In real-time Advanced computing applications such
+as image processing, neural networks and digital signal pro-
+cessing (DSP), Approximate multipliers are designed to provide
+acceptable results while conserving power, hardware resources
+and improving speed with bounded inaccuracies. In this paper we
+design an Approximate Multiplier using Approximate compressor
+and Approximate Half Adders to gain less power consumption
+for approximate computing. The experimental results indicate
+89.47% decrease in area, 86.82% decrease in power and 48.057%
+decrease in the area delay for proposed 8x8 multiplier compared
+to exact multiplier. The accuracy percentage for the proposed
+multiplier is 77.5%. The proposed design is coded in Verilog
+HDL and simulated using Xilinx VIVADO tool.",
+manuscripts-papers,Meta-Learning Based Continual Learning Methods for Fine-grained Fruit Quality Classification Aayush ,"Abstract—The inefficiency in the food supply chain leads
+to significant food wastage. Traditional machine learning and
+deep learning approaches for fruit quality monitoring require
+large amount of training data and assumptions of independent
+and identically distributed (IID) data. Furthermore, most of
+these models are fruit specific that cannot be easily adapted
+for other types of fruits. In this paper, we have utilized and
+compared the performance of various meta-learning inspired
+continual learning algorithms as well as pure continual learning
+algorithms for few-shot fine-grained classification of quality
+stages of 14 types of fruits under the assumption of dynamic data
+distribution (i.e. the data for several fruits becomes available at
+different time intervals). Our results show that meta-learning-
+based continual learning algorithms, specifically Sync-MAML
+and C-MAML, perform significantly better than pure continual
+learning methods. These methods effectively mitigate catastrophic
+forgetting and adapt to new fruits with minimal data.",
+manuscripts-papers,Micro -Grooved Anisotropic Hydrophobic Flexible and Stretchable Strain Sensor s Deven Birje Material,"Abstract— Flexible and stretchable strain sensors are 
+beneficial in health monitoring, human-robot interactions, soft 
+robotics, etc. In this study, fabrication of anisotropic and 
+hydrophobic flexible strain sensors is reported. The sensors were 
+prepared 
+by 
+a 
+replica 
+molding 
+process 
+using 
+polydimethylsiloxane+carbon nanotubes composite. Four micro-
+grooved textures were replicated with varying dimensions. They 
+showed anisotropic wettability, Young’s modulus, and electrical 
+conductivity, when measured parallel (∥), perpendicular (⊥) to 
+grooves. Water contact angle increased from 104 ± 1° (untextured) 
+to 118 ± 9° and to 110 ± 3° when measured parallel (∥), 
+perpendicular (⊥) to grooves, respectively. Similarly, Young’s 
+moduli are 2.16 MPa (∥),",
+manuscripts-papers,Fusion of Thermal and RGB Images for Traffic Object Detection Anirud Nandakumar Department of Civil ,"Abstract—Conventional approaches to traffic data collection
+often involve the use of RGB cameras. In an outdoor scenario, the
+data collected is affected by many factors, such as poor/excessive
+lighting, weather, occlusion, etc. Introducing a thermal sensor
+helps tackle the loss of information in RGB images. This paper
+discusses the existing sensor fusion approaches, such as pixel-
+level, feature-level, and decision-level fusion. A new algorithm -
+the 4-channel YOLO V-8 model has been implemented, and its
+performance was compared with the existing approaches. These
+algorithms are evaluated on the FLIR ADAS dataset. This paper
+shows the superior performance and reduced loss in information
+of the new 4-channel algorithm over the existing algorithms.",
+manuscripts-papers,Fault Detection of Vacuum Pumps in PV Solar Cell Manufacturing: A Deployment Case-study Ajay Narayan,"Abstract—Pump failures in industrial settings can lead to sig-
+nificant operational disruptions and financial losses. This paper
+presents a data-driven framework for unsupervised anomaly
+detection to enable proactive fault detection in vacuum pumps
+operating within a chemical vapor deposition (CVD) unit at a
+Photovoltaic (PV) solar cell manufacturing facility. The frame-
+work consists of two distinct stages: offline model development
+followed by online deployment. During the offline stage, a diverse
+set of unsupervised anomaly detection algorithms are trained
+and evaluated on historical operational data to select the most
+effective model for the specific equipment and operating condi-
+tions. In the online stage, we design and implement a periodic
+inference pipeline to monitor real-time data streams and detect
+anomalies that deviate from the established baseline of normal
+operating behaviour. Among the models tested in the offline stage,
+the best model yielded a high F1-score of 96% and low training
+time of",
+manuscripts-papers,Development of flexible and wearable PDMS -CNT based tactile sensor for robotic grip per Akshara R D,"Abstract— Though piezoresistive pressure sensors have 
+been explored extensively for various applications, high 
+sensitivity over a wide pressure range is still challenging. 
+In this work, a flexible and hence, wearable, cubic unit of 
+resistive pressure sensor with unit length of 4 mm is 
+fabricated using the biocompatible composite of 
+polydimethylsiloxane (PDMS) and functionalized multi-
+walled 
+carbon 
+nanotubes 
+(f-MWCNTs), 
+using 
+tetrahydrofuran (THF) as the solvent. The response of the 
+sensor for wide range of pressure (6 KPa – 3 MPa) with 
+varying f-MWCNT percentage (3 wt% to 8 wt% in PDMS 
+matrix) was studied.  Among all fabricated sensors, the 
+sensor with 7 wt% of f-MWCNT showed relatively better 
+sensitivity of about 0.007565 KPa-1 and 0.001669 KPa-1 in 
+the pressure range of 6 KPa – 62.5 KPa and 62.5 KPa – 
+125 KPa respectively, than most of the reported results. 
+Sensors showed excellent performance with respect to its 
+response time and repeatability. Upon integrating these 
+units in a 3 X 3 array, the combination showed good 
+sensitivity up to the force of 18 N; exhibiting potential in 
+the field of wearable and robotic applications.",
+manuscripts-papers,PI vs PID Temperature Control of an Uncalibrated Portable Heater for Sensors Chinmayee Arpita Pati C,"Abstract—Wearable heating pads are widely used as therapeu-
+tic warmers for tending to multiple health conditions. Precise
+temperature control is the key to ensuring the safety and effec-
+tiveness of the device due to its near-skin application. The paper
+presents a comparative analysis of temperature control using
+Proportional-Integral (PI) and Proportional-Integral-Derivative
+(PID) controllers based on time domain response parameters. The
+system utilizes an Arduino microcontroller to perform the error
+calculation between the set point and real-time temperature and
+accordingly generate PWM pulses to control the actuator driving
+the heating pad. The device features three different modes of
+operation based on the analog output voltage from an external
+driving circuit. Alongside, characterization data, system design
+and implementation of controllers, a comparative time domain
+response parameter analysis based on experimental data is also
+presented.",
+manuscripts-papers,"Sensitivity analysis of coupled nonlinear oscillators Sanjeev Kumar Pandey, Graduate Student Member,","Abstract— This study investigates the synchronization be-
+havior of coupled nonlinear oscillators, focusing on the sen-
+sitivity of synchronization to system parameters and coupling
+strength. Employing Floquet theory and numerical simulations,
+we analyze both homogeneous and heterogeneous oscillator
+systems. Our results demonstrate that synchronization depends
+on specific parameter ranges and coupling gain values. We
+establish bounds for these parameters, offering insights into
+reliable synchronization conditions. This work advances our
+understanding of coupled nonlinear systems with potential
+neuroscience and electrical engineering applications. While
+limited to specific oscillator models and parameter spaces,
+our findings motivate future research. Expanding the scope
+to diverse models and broader parameter ranges, alongside
+pursuing analytical solutions, promises to generalize the ob-
+served behaviors and provide deeper mathematical insights into
+synchronization mechanisms.
+I.",
+manuscripts-papers,"Printed dry electrodes for bioimpedance measurement using textile substrates Shivam Trivedi∗, Satyam","Abstract—This
+study
+presents
+the
+development
+of
+dry
+electrodes integrated into stretchable textile substrates for
+bioimpedance sensing, aiming to overcome the limitations of
+traditional wet electrodes. Dry electrodes eliminate the need for
+conductive gels, enhancing user comfort and usability. However,
+challenges such as ensuring consistent skin contact and main-
+taining reliable electrical performance remain. Our research
+addresses these issues by proposing novel fabrication methods
+that improve electrode functionality, conductivity, and durability
+while ensuring good skin contact without adhesives. The outcome
+is a more efficient, comfortable, and durable dry electrode system,
+advancing the application of bioimpedance sensing in biomedical
+diagnostics.
+I.",
+manuscripts-papers,Faulty Junction Box Identification in Photovoltaic Manufacturing Anand Thirwani Reliance Industries ,"Abstract—Ensuring 
+safe 
+and 
+efficient 
+operation 
+of 
+photovoltaic (PV) panels requires the identification of faults 
+within critical components such as junction boxes, that serve as 
+protective enclosures for electrical connections within the panel. 
+Faulty junction boxes can lead to short circuits, that can result 
+in fires, making early detection of faulty junction boxes critical. 
+In this paper, we propose a novel ensemble approach that 
+combines advanced deep learning based object detection and 
+image classification techniques to detect faulty junction boxes. 
+The proposed approach demonstrates excellent performance on 
+a real-world dataset of junction box images from an operating 
+solar panel manufacturing unit with an F1 score of 0.98, offering 
+an accurate and reliable solution to detect faulty junction boxes.",
+manuscripts-papers,An on-chip all-digital low-mismatch CMOS process monitoring sensor circuit for accurate process sens,"Abstract—As 
+semiconductor 
+manufacturing 
+processes 
+continue to scale down, variability-induced process shifts 
+have become a significant challenge, impacting both yield 
+and performance of a chip. Die-Die and within-die process 
+variations can occur during the manufacturing cycle of a 
+silicon wafer leading to mismatches in electrical parameters 
+of circuits thereby impacting the performance and power of 
+a chip. To mitigate the impacts of these variations, larger 
+guard bands during circuit design are taken leading to 
+performance and area loss. To improve yield and reduce 
+design margins, information regarding the process centering 
+of a silicon die therefore becomes crucial. This paper 
+proposes an on-chip all-digital low mismatch sensor circuit 
+to monitor ON-current variations of nMOS and pMOS 
+independently. The dependency of ON-current on threshold 
+voltage makes this circuit useful  for sensing process 
+variations. The proposed architecture enables high sensing 
+accuracy and area efficiency by using an inverter-based 
+topology. For a 60 stage sample size for nMOS and 84 stage 
+for pMOS, the sensor area is 0.00096 mm2 with worst-case 
+standby power consumption of 600 µW at 0.8 V operation. 
+The solution therefore enables low-cost implementation for 
+applications such as post-silicon tuning using adaptive 
+voltage scaling, adaptive body-bias and to validate model 
+accuracy through model vs silicon mismatch. Detailed 
+simulation and silicon results in 28-nm Fully Depleted 
+Silicon on Insulator (FD-SOI) show the validity of the 
+proposed circuit.",
+manuscripts-papers,LiDAR-IMU Fusion for Distortionless Point Cloud Generation in Hybrid Solid-State LiDAR for 3D Mappin,"Abstract—LiDAR sensor generates accurate 3D environment
+representations by creating point cloud data, but self-motion
+distortion presents a significant challenge in solid-state LiDAR
+due to the restricted horizontal field of view. As LiDAR systems
+create point cloud data at frequencies ranging from 5 to 20 Hz,
+typically at 100 ms intervals at 10 Hz, this distortion arises due to
+the varying coordinate systems of each point in a frame, caused
+by the movement of the vehicle on which LiDAR is mounted.
+The paper discusses the underlying causes of this distortion,
+particularly in oscillating LiDAR systems, and presents a method
+to correct it through LiDAR and IMU (Inertial Measurement
+Unit) sensor fusion. By converting all points within a single frame
+to a consistent axis system using IMU data and timestamps,
+distortion can be effectively removed, leading to a more accurate,
+distortion-free point cloud. In this paper, the LiDAR-IMU fusion
+approach is employed to generate undistorted point clouds for
+precise perception and the creation of an accurate 3D point
+cloud map. The algorithm is tested in real-time at the TiHAN
+Autonomous Navigation Testbed in the IIT Hyderabad campus.",
+manuscripts-papers,Design and Optimization of Hollow Microneedles Patch Based Wearable Transdermal Drug Delivery System,"Abstract- 
+Microneedles 
+(MNs) 
+are 
+emerging as a transformative technology in 
+transdermal drug delivery, offering a minimally 
+invasive alternative to traditional hypodermic 
+needles. The current work focuses on the design and 
+optimization 
+of 
+hollow 
+microneedle 
+arrays, 
+engineered for precise and efficient drug delivery. 
+Utilizing advanced simulation tools such as 
+COMSOL Multiphysics® and Autodesk Fusion 
+360™, we 
+investigated 
+various microneedle 
+geometries, evaluating their mechanical strength, 
+fluid dynamics, and drug permeability. Emphasis is 
+placed on optimizing structural integrity and 
+fabrication processes to enhance drug stability and 
+delivery efficiency. The study also examines the 
+impact of microneedle design on skin penetration 
+depth and drug dispersion, aiming to maximize 
+therapeutic efficacy while minimizing patient 
+discomfort. Thus, this work contributes to the 
+development 
+of 
+next-generation 
+transdermal 
+delivery systems, potentially revolutionizing patient 
+care by offering a less invasive, yet highly effective, 
+drug administration method.",
+manuscripts-papers,Accurate Blood Pressure Prediction using Korotkoff Sound and Cuff Pressure: A Pilot Study Sushrut Li,"Abstract—Blood pressure (BP) serves as a critical indicator of
+cardiovascular health. Hypertension, a grave medical condition,
+manifests when the body’s BP surpasses the threshold of 140/90
+mmHg, leading to life-threatening risks such as heart attacks
+and strokes. Many commercial digital BP devices based on
+Oscillometric method are often less accurate which may lead
+to inaccurate diagnosis, especially in home settings.
+This research attempts to develop an accurate BP prediction
+method using deep learning model over korotkoff sound and
+cuff pressure. This is a pilot study to validate the method
+of BP prediction and to show proof of concept. A digital BP
+measurement prototype device was developed on the principle
+of auscultation, renowned as the ’gold standard’ in manual BP
+measurement, and it is used for the sole purpose of capturing
+excellent quality korotkoff sound and cuff pressure. Using this
+prototype device, data was collected from a cohort of over 115
+subjects, with measurements conducted under the supervision of
+medical professionals.
+A Convolutional Neural Network (CNN) based model was
+trained on this captured data to discern Korotkoff peaks, en-
+abling an exact prediction of corresponding systolic and diastolic
+BP values. After comparing the predictions with ground truth,
+the validation results show mean absolute error and standard
+deviation error for systolic and diastolic errors as 4.06 ± 5.35
+mmHg and 3.89 ± 4.51 mmHg, respectively. This promising
+outcome underscores the potential of accurate BP prediction
+using auscultatory method and deep learning as a valuable tool.",
+manuscripts-papers,Sustainable Model of UrbanVillage: Case of Rural Chandigarh Sunanda Kapoor School of Architecture & ,"Abstract— The study addresses resource distribution, 
+landowners' rights to maximize the effectiveness of the natural 
+resources at their access for community welfare.  Urbanization 
+is playing a major role in land use changes, land transactions, 
+increased rural-urban migration and the overall transformation 
+of land uses. Participatory research methodology of research 
+helped in the formulation of pragmatic proposal of a sustainable 
+urban village. The study is aligned with the SDGs and primarily 
+responds to Goal 11, 12 & 15. The proposal exemplifies striking 
+a balance between using the land as a resource and conserving 
+it so that present requirements are satisfied without affecting the 
+ability of future generations to satisfy their own necessities. 
+Chandigarh's urban villages have been analysed as a case study 
+for comprehending the dynamics between the rural and urban 
+areas.",
+manuscripts-papers,Ethical Implications of AI in Healthcare: A Focus on Bias and Data Representation Sadhika Singh Mech,"Abstract—The rapid integration of Artificial Intelligence 
+(AI) in healthcare presents unprecedented opportunities for 
+improving patient outcomes and system efficiencies. However, it 
+also introduces significant ethical challenges, particularly in 
+algorithmic bias and data representation. This paper critically 
+examines these ethical implications, focusing on how biases can 
+be inadvertently embedded in AI systems and the consequences 
+for healthcare delivery and outcomes. We analyze the critical 
+need for diverse, representative datasets in AI model 
+development and propose strategies for mitigating risks. 
+Through a comprehensive review of current literature, case 
+studies, and ethical frameworks, we aim to contribute to 
+developing more equitable and effective AI systems in 
+healthcare. Our findings underscore the necessity for ongoing 
+ethical scrutiny, interdisciplinary collaboration, and robust 
+governance mechanisms to ensure that AI in healthcare benefits 
+all patient populations equitably.",
+manuscripts-papers,Geometrical Study and Performance Analysis Of Gold Interdigitated Micro electrodes (IDµEs): Towards ,"Abstract— The geometric design of electrodes plays a crucial 
+role in determining the biosensor sensitivity and resolution by 
+altering the Electric field (E). Specifically, the value of electric 
+sensing parameters like resistance (R), capacitance (C), and 
+impedance (Z), inherently depends on the strength of the 
+generated electric field between electrodes. So, one must 
+generate a large electric field for the applied AC or DC voltage. 
+Unfortunately, the rigorous practical study on the same is 
+limited on account of cleanroom-based fabrication techniques' 
+cost and time. So, it is essential to study and analyze the 
+geometrical performance of electrodes using simulations – 
+present work aimed at this. In this work, we specifically selected 
+gold-interdigitated microelectrodes (IDµEs) as one of the most 
+viable alternatives to conventional two-electrode systems based 
+on the enhanced field strength (E) generated for the same 
+applied voltage. Specifically, the geometric study of gold IDµEs 
+was carried out using the COMSOL Multiphysics simulator by 
+varying the inter-finger distance and number of fingers between 
+the electrodes. Based on the generated electrical field strength, 
+one can select the best design for biosensor fabrication.",
+manuscripts-papers,"Intelligent Grain Storage Management System for Horizontal Silos Diego Barrettino1),2) and Denis Fer","Abstract— We designed, fabricated and tested a sensor 
+system for the management of grains stored in horizontal silos 
+(also known as silobags), which mainly comprises some 
+remote measurement units (at least two per silobag) that 
+monitor both the state of grains and the integrity of the 
+silobag at real time and that can be also configured as satellite 
+gateways, thus allowing to remotely manage the grains stored 
+in silobags. Measurement results performed during field tests 
+in Argentina are reported.",
+manuscripts-papers,Internet of Things-based Solar-powered Automatic Irrigation System for Hibiscus Plant 1st Oluwadamil,"Abstract—One of the major issues facing several industries
+in  Africa  is  a  lack  of  widespread  industrialisation.  The
+agricultural sector suffers from this as well. A result of the
+extensive research and development in western countries is the
+development  of  optimal  methods  for  various  aspects  of
+farming. Farmers can now set all the perfect conditions for a
+plant’s growth, including the right amount of sunlight and
+shade,  right  timing  of  irrigation,  soil  type,  moisture  and
+humidity levels and others. Focusing on hibiscus plant, the
+methodology in this work uses the ESP32 Microcontroller and
+soil moisture sensor to solve the problem of timed irrigation.
+After detecting the level of soil moisture, the system pumps
+water into the soil which depends on the moisture level and the
+growth stage in the hibiscus plant’s life cycle. By timing and
+supplying  the  right  amount  of  water,  the  plant’s  optimal
+growth can be achieved. If the system is applied on a large
+scale, the rate of power consumption would be considerably
+large. Using a renewable energy source such as solar power
+would help  to save cost and  leave a much-reduced carbon
+footprint. Through all these, a farmer can use clean energy to
+irrigate plants based on their peculiar watering cycles.",
+manuscripts-papers,Innovative Approaches to Rainfall Prediction: Empowering Farmers with ML Models Prasanth Vaidya Sani,"Abstract—Rainfall prediction plays a crucial role in agri-
+culture, water resource management, and disaster prepared-
+ness. Accurate forecasting of rainfall can significantly enhance
+decision-making processes, leading to improved crop yields,
+better water resource allocation, and effective management of
+flood risks. Traditional methods of rainfall prediction often
+fall short due to the complex and dynamic nature of weather
+patterns. This study leverages machine learning techniques to
+develop a robust and precise rainfall prediction model using
+historical rainfall data from the years 1901 to 2015. Utilizing
+this extensive dataset, we train various machine learning mod-
+els, including XGBoost, CatBoost, Random Forest, and Support
+Vector Machines (SVM), to predict rainfall with high accuracy.
+The proposed system allows for real-time rainfall forecasting,
+providing valuable insights to farmers, meteorologists, and
+policymakers. Our results demonstrate that machine learning
+can effectively predict rainfall, outperforming traditional sta-
+tistical methods and offering a promising tool for mitigating
+the impacts of weather-related uncertainties on agriculture and
+other critical sectors.",
+manuscripts-papers,Image and Shadow fusion for Precise Bead Orientation Detection in Jewelry Making Automation Raghaven,"Abstract—The jewelry-making industry faces persistent 
+challenges in achieving precise bead orientation, a crucial step 
+for creating intricate designs efficiently. Manual methods are 
+time-consuming and error-prone, leading to material wastage 
+and compromised quality. Semi-automatic systems still rely 
+heavily on human intervention, and face limiting scalability. The 
+image processing techniques also propose a limiting factor due 
+to specular reflection from highly polished surface and metal 
+dust deposited in the background during the process which 
+makes the object and background identification challenging. 
+Addressing this, the present research integrates Image 
+processing techniques that fuse the image of the object under 
+consideration with its shadow and apply an Artificial 
+Intelligence based algorithm to automate bead orientation 
+detection in jewelry design. The proposed system accurately 
+identifies bead orientation, ensuring proper bead placement 
+before the actual design process.   Due to very fast processing, 
+our method enables real-time anomaly detection, enhances 
+operational efficiency, and offers flexibility in object detection 
+and orientation. By revolutionizing bead orientation detection, 
+the present research promises to enhance productivity, reduce 
+costs, and ensure quality in jewelry design automation.",
+manuscripts-papers,"Volume 2(3) (2017) 1949 -307X © 2016 IEEE. Personal use is permitted, but republication/redistributi","Abstract— The quality of groundwater is maintained as essential to safeguarding our ecosystem and providing safe 
+drinking water. Due to the limited area coverage and missing sampling points, traditional groundwater monitoring 
+techniques are less reliable, making it challenging to obtain accurate water quality. In this research, a novel approach 
+that blends Smart Sensors with Geographic Information Systems (GIS) is identified to improve groundwater quality. 
+Some critical groundwater parameters including pH, turbidity, dissolved oxygen, turbidity, and Nitrate may be 
+continuously and in real-time monitored using the smart sensors. These sensors provide high-resolution data that is 
+transmitted to a central server for analysis, then geospatial technology provides data mapping, visualization, and analysis. 
+GIS helps in identifying pollution sources, understanding how contaminants spread over an area, and predicting future 
+water quality trends. By integrating smart sensors and GIS, we can make quick and informed decisions about 
+groundwater quality, while responding immediately to any issues on the water-collected wells. This study validates the 
+development and implementation of the GIS system in the test area, demonstrating its ability to provide accurate, real-
+time data. The results show that this combined approach is not only effective but also cost-efficient in monitoring 
+groundwater quality, without human error offering a sustainable way to monitor and manage groundwater quality at 
+different times.",
+manuscripts-papers,Advancing Horizons: Standardized Future Trends in LiDAR and Remote Sensing Technologies Spoorthi Sri,"Abstract—Rapid advancements in LiDAR (Light Detection and 
+Ranging) technology, coupled with the synergy of remote sensing, 
+have revolutionized Earth observation methodologies. This paper 
+delves into the transformative impact of integrated   
+LiDAR and remote sensing systems. Focusing on miniaturization, 
+cost reduction, and improved resolution, the study explores the 
+evolving landscape of terrestrial and aquatic environmental 
+monitoring. The integration of multi-wavelength and dual-mode 
+LiDAR systems, alongside collaborative efforts with other remote 
+sensing technologies, presents a comprehensive approach. The paper 
+highlights the pivotal role of LiDAR in environmental assessment, 
+urban 
+planning, 
+and 
+infrastructure 
+development. As 
+the 
+amalgamation of LiDAR and remote sensing reshapes Earth 
+observation, this research anticipates a paradigm shift in our 
+understanding of dynamic planetary processes.",
+manuscripts-papers,Using Cloud and I oT to Benefit Agriculture Moreshwar Salpekar Sevya Multimedia Pvt Ltd moreshwar.sa,"Abstract: Agriculture is a manually intensive activity that has been using mostly traditional practices evolved over 
+generations. Recently, farmers have started taking advantage of scientific developments and scientific community inputs to 
+improve their yields e.g. getting soil analysis, weather updates over TV, radio, internet etc. With free and fertile land for 
+agriculture become scarce and population rising, yield needs to increase. Increased yield also means more revenue for 
+farmer. Additionally, crops need protection from pests and insects. There is a need to know about weather forecasts. There is 
+also a need to save water. With this in mind, the paper proposes an outline of fog computing based agricultural IoT System 
+that can be used to improve agricultural yield. It is also expected to help in water conservation, get weather forecasts and 
+agricultural inputs market predictions to farmers. It proposes use of data analytics and IoT to automate some of agricultural 
+activities like irrigation, crop sowing, harvesting, etc. freeing up farmers for more important tasks. Data analytics will use 
+inputs from sensors and cloud, analyse it and output predictions base on analysis. The system will provide option to farmer 
+to either allow automatic actions or control the local operation.",
+manuscripts-papers,Enhanced Safety Stun Gun With GPS and GSM for Self-Defense 1stChilakala Sudhamani CMR Technical Camp,"Abstract—In today’s world, women face numerous safety
+challenges, including harassment and molestation. In this paper,
+we proposed a self-defense stun gun as an effective and efficient
+solution for women’s safety. This portable device contains a
+high-voltage generator, GSM and GPS module, panic and
+taser button and an Arduino Uno with Atmega328 AVR
+microcontroller. When the device is activated in a dangerous
+situation, it immediately sends an SMS with the user’s location
+and distress signal to pre-selected contacts. It also generates a
+1000kV electric shock to temporarily immobilize an attacker,
+allowing the user to escape or seek help. This device aims to
+enhance the safety and security of women in urgent need or
+dangerous circumstances for proactive measures against gender-
+based violence.",
+manuscripts-papers,"Proposed Model for Integrated Services of Healthcare System Boentika Singh SN Medical College Agra, ","Abstract— An integrated healthcare system is designed to 
+coordinate services across various levels of care, ensuring that 
+patients receive seamless and efficient care from healthcare 
+providers. This paper proposes a model for a holistic healthcare 
+system that is patient-centered, efficient, and focused on 
+delivering high-quality care through collaboration, integration 
+of services, and the use of technology. We first address ethical 
+and legal issues confronting society, including privacy and 
+surveillance, bias or discrimination, and the philosophical 
+challenge of human judgment in healthcare. The paper then 
+describes various proposed model components, including 
+centralized patient information systems, multidisciplinary care 
+teams, patient-centered care approaches, and technology 
+integration. This comprehensive approach aims to improve the 
+quality of care, enhance patient outcomes, and reduce costs 
+through better coordination and collaboration. The proposed 
+model offers numerous benefits that contribute to the overall 
+well-being of individuals and the efficiency of the health sector, 
+demonstrating the potential of well-designed, integrated 
+healthcare systems.",
+manuscripts-papers,Digital Filter Design For Enhanced Signal Processing In PPG-Based Health Monitoring Systems Uthra T ,"Abstract—This paper details the development and applica-
+tion of a more efficient Infinite Impulse Response (IIR) filter,
+specifically the Chebyshev Type II, to replace the memory-
+demanding moving average filter in real-time signal processing
+for microcontroller-based systems. The primary goal is to lower
+memory usage and reduce signal detection delays, both of which
+are essential for resource-constrained embedded systems. The
+filter design was meticulously executed using MATLAB, involving
+comprehensive stability assessments such as pole-zero analysis,
+impulse response evaluation, and Bode plot examination, which
+verified the stability and effectiveness of third and fourth-order
+Chebyshev Type II filters for processing photoplethysmogram
+(PPG) signals. Among these, the third-order filter demonstrated
+superior performance, particularly regarding phase stability
+and frequency response. The digital filter was implemented
+using the Cascade (Biquad) Form, which improved numerical
+stability, modularity, and the precision of filter coefficient control,
+minimizing rounding errors in digital applications. The resulting
+system, employing derived difference equations, offers quicker
+and more dependable PPG signal processing with decreased
+memory requirements and reduced signal delay. Future studies
+might investigate further optimizing filter performance by rear-
+ranging biquad sections, potentially enhancing the effectiveness
+of real-time signal processing.",
+manuscripts-papers,An Electrodermal Signal measured Pattern Recognition Algorithm to assess Cognitive Load during Gamin,,Abstract not found
+manuscripts-papers,Digital Passport for Fresh Food Traceability Mudra Kapoor Physical Sciences Research Area Tata Consu,"Abstract— The growing population, increasing food 
+demand, limited cultivable land, and erratic climate place 
+significant pressure on agricultural output. Ironically, one-
+third of food intended for human consumption is wasted 
+worldwide. Policymakers are addressing both food 
+production and waste reduction challenges. In this paper, 
+we propose a unique concept: the Digital Passport for 
+tracing fresh food. The Digital Passport is a unique code 
+affixed to the packaging of fresh fruits or vegetables, 
+carrying comprehensive information about the produce 
+from origin to disposal of packaging. This information can 
+be decoded by consumers or supermarkets to trace the 
+food's source of production, plucking date, storage 
+conditions, current nutritional value, environmental 
+impact, ripening stage, and potential repurposing options 
+if overripe. We have developed the Food Application, 
+which leverages our Food Digital Twin technology. The 
+Food Digital Twin solution involves synchronized 
+monitoring of various physico-chemical attributes, such as 
+time-series sensory data, chemical composition variations, 
+and images. AI/ML and physics-based models, trained on 
+these attributes, predict food quality. These hybrid models 
+act as soft sensors in real-time, allowing stakeholders to 
+make dynamic decisions related to repricing, recycling, 
+reusing, and repurposing based on food quality 
+assessments. Consumers can scan the QR code on the fruit 
+packaging and an image of the fruit to obtain information 
+about its history and status. This system aims to create 
+transparency and build consumer trust by verifying the 
+authenticity of purchases. For supermarkets, the system 
+aids in inventory control by capturing fruit status, 
+predicting shelf life, adjusting prices, clearing stock, and 
+selling surplus to food processing companies at reduced 
+rates. The concept is designed to minimize food waste, 
+facilitate better decision-making for buyers and sellers, 
+ensure consumption of climacteric fruit at its peak 
+nutritional value, and foster a sustainable food ecosystem 
+for the future.",
+manuscripts-papers,Investigating the potential of PEDOT:PSS/Graphene based RFID sensor for milk spoilage detection Abhi,"Abstract— This study aims to develop a PEDOT: 
+PSS/graphene-based RFID gas sensor for assessing 
+the freshness of thermally processed milk. Acetone 
+was selected as a marker VOC for milk spoilage. 
+Initially, an RFID gas sensor was developed using 
+bare PEDOT:PSS as the gas sensing layer, which 
+demonstrated the ability to detect acetone VOC. 
+However, the detection limit (LOD) was found to be 
+poor (500 ppm of acetone). We observed frequency 
+and amplitude shifts in the RFID sensor response 
+under different concentrations of acetone. For 
+instance, an increase in amplitude of 9.94 dB and a 
+frequency shift of 30 kHz was observed compared to the 
+signal of the sensor in the presence of air. In subsequent 
+studies, we plan to enhance the sensor’s sensitivity 
+and detection limit by doping graphene nanoparticles 
+into the sensing layer. We will examine the 
+performance of RFID gas sensors in detecting 
+different concentrations of acetone at various 
+humidity 
+levels 
+(50%–80%) 
+under 
+ambient 
+temperature (25°C). Our preliminary results indicate 
+the potential of RFID gas sensor in detecting acetone 
+with low concentration. Integration of the smart 
+RFID sensor with the milk package will enable the 
+milk freshness detection.",
+manuscripts-papers,BDNF quantification from blood plasma as a diagnostic and therapeutic implementation Suman Kalyan Da,,Abstract not found
+manuscripts-papers,Optimized Method for Enhancing the Linearity of Capacitive Pressure Sensor with Circular Diaphragm b,"Abstract—Micro Electro Mechanical System (MEMS) 
+based Capacitive pressure sensors (CPS) have found their use in 
+multiple applications lately in the field of healthcare, automotive 
+etc. The proposed design aims to achieve an enhanced sensor 
+performance by relieving the sensitivity and linearity trade-off 
+method and to determine core design parameters for optimal 
+operation. Novel structures such as modified fixed bottom 
+electrode with a reduced size of the electrode have been 
+introduced for providing better sensor performance. A linear 
+relation between touch radius and fixed electrode parameter 
+indicates that the fixed electrode will have a circular shape 
+analogous to the touch region. Therefore, higher linearity can be 
+achieved by modifying the dimensions of the fixed electrode 
+instead of the shape. MATLAB simulations verify the analytical 
+model of capacitance and sensitivity, while COMSOL 
+Multiphysics validates the diaphragm's deflection.",
+manuscripts-papers,Fabrication of Eco-friendly 3D Origami-based Fabric Microfluidic channels Lingadharini P School of E,"Abstract— Microfluidic channels inspired by origami have 
+emerged as a possible approach to create flexible and 
+reconfigurable fluidic systems within a small space. Present 
+work aims to examine the design, fabrication, and application 
+of microfluidic channels employing fabric substrates, with 
+beeswax barriers as channel walls. Firstly, we discuss the 
+requirement of surface modification of the fabric surface. 
+These microchannels may be folded into intricate three-
+dimensional patterns utilizing flexible and resilient fabric 
+materials, therefore enabling varied control of fluids in 
+confined areas using beeswax. Results obtained clearly 
+demonstrate materials used in the fabrication process are eco-
+sustainable addressing the requirement of recyclability. The 
+strong mechanical properties and great fluid manipulation 
+ability of the resulting channels make them ideal for a variety 
+of uses including soft robotics, wearable sensors, and lab-on-a-
+chip wearable devices. This paper presents an eco-sustainable 
+3D origami microfluidics as a novel framework for building 
+flexible and adaptable fluidic systems in the fields of industry, 
+environmental research, and POC device applications.",
+manuscripts-papers,"A Survey: Smart Wristwear for Alzheimer Patients with an Advance Tracking System 1Rutuja Javheri,2Di","Abstract——Globally, there are around 50 million individuals
+afflicted with dementia, including Alzheimer’s disease. When
+care- givers are unable to be with the afflicted person constantly,
+con- ditions like dementia and Alzheimer’s can provide a range
+of therapeutic obstacles. And it is crucial to ensure the patient’s
+safety and receive the right care, but receiving treatment without
+the ability to regularly check on the patient’s status poses a
+variety of concerns. Thankfully, numerous wearable Internet of
+Things gadgets are accessible that can contribute to the highest
+level of safety and care. IoT has fueled medical research to lower
+costs and increase accessibility for all.The method we use, that
+considers the significance of these characteristics in the field
+of healthcare, presents an affordable, efficient, portable, and
+userfriendly wearable technology that is functional in conjunction
+with a mobile application to track, monitor, alert, and support
+Alzheimer’s patients. Among the most promising ways to assist
+patients and their carers is through the outcomes of this Internet
+of Things (IoT)-based healthcare system. The application of AI
+has grown dramatically in all fields these days. Thus, the combi-
+nation of AI and IoT technologies can lead to a variety of benefits.
+Instantaneous evaluation of information using AI can improve
+the choice-making of the Internet of Things devices. AI can help
+IoT devices learn and adapt to their environments, improving
+their ability to provide accurate and timely information. The
+aim of this research is to provide information about the different
+wearable devices present for people with AD.",
+manuscripts-papers,Optimized Simulation and Performance Assessment of MEMS Piezoresistive Sensors with PDMS -MXene Hybr,"ABSTRACT 
+This study delves into the advancement of MEMS 
+piezoresistive 
+pressure 
+sensors 
+through 
+the 
+integration of  PDMS-MXene hybrid materials and 
+a rectangular cantilever design. Comprehensive 
+simulations using Intellisuite software demonstrate 
+that larger rectangular membranes provide superior 
+displacement, particularly within a pressure range of 
+0.05 to 0.5 MPa. Notably, MEMS sensors with a 225 
+μm rectangular cantilever length exhibit optimal 
+deflection, surpassing the constraints typically seen 
+in sensor structures. The analysis shows that, under 
+a 0.5 MPa pressure load, rectangular membranes of 
+14,000 
+μm² 
+and 
+80,000 
+μm² 
+experience 
+displacements of 9.27532E-5 μm and",
+manuscripts-papers,"Adaptive Brain Tumor Treatment Using Machine Learning, Electromagnetic Fields, and Real-Time Sensor ","Abstract—This paper integrates biological sensors, electro-
+magnetic fields, and machine learning techniques to suggest an
+adaptive brain tumour therapy. The suggested method is a multi-
+step procedure which starts with the analysis of brain CT scans
+by machine learning algorithms to precisely pinpoint tumours,
+and then uses convolutional neural networks for fine delineation.
+Further, collects real-time data from sensors—such as chemical
+fibrosensors, electrochemical sensors, non-invasive blood gas
+monitors, and blood glucose sensors—is used to optimise the
+administration of targeted electromagnetic field therapy. Based
+on sensor input, reinforcement learning algorithms dynamically
+modify EMF parameters to provide individualised and efficient
+care.",
+manuscripts-papers,pH Measurement s Using Leaky Waveguide s Victoria Wensley School of Chemistry University of Birmingh,"Abstract—Leaky waveguides (LW) are simple devices, 
+requiring only a low refractive index layer on a higher refractive 
+index substrate to act as an optical sensor. In this study, two 
+types of LWs were used as pH sensors, the metal-clad LW 
+(MCLW) and dye-doped LW (DDLW), using agarose as a pH-
+insensitive reference layer and chitosan as the pH-sensitive 
+layer. The pH response of both layers was studied individually 
+in both MCLW and DDLW formats and then as a stacked 
+DDLW where the chitosan layer was deposited on top of an 
+agarose layer. The agarose layer was found to be essentially 
+insensitive to pH, while the measured pKa of the chitosan LW 
+was found to be 6.33±0.18, which is in accord with the literature 
+value of ~6.5. Using the stacked DDLW it was possible to reduce 
+the sensitivity of the device to sample refractive index changes 
+caused by composition by a factor of ~7.",
+manuscripts-papers,Leak Detection and Diagnosis in PECVD Chambers for Photovoltaic Cell Manufacturing Anand Thirwani Re,"Abstract— Leaks in Plasma Enhanced Chemical Vapor 
+Deposition (PECVD) process units used in photovoltaic (PV) cell 
+manufacturing can have an adverse impact on the production 
+quality of PV cells. This paper investigates the application of 
+machine / deep learning techniques for leak detection and 
+diagnosis in PECVD units, focusing on identifying and 
+pinpointing the source of leaks using multivariate time series 
+data from on-board sensors. After thorough benchmarking with 
+state-of-the-art methods on data from a real operating solar PV 
+cell manufacturing unit, we propose a novel two-scorer 
+framework for leak detection and diagnosis in PECVD units, 
+that exploits the problem structure based on domain expertise 
+of PV cell manufacturing practitioners. This framework 
+processes detection and diagnosis parameters separately, 
+achieving an impressive F1 score of 0.99 for leak detection and 
+an average HitRate@1 of 0.72 for diagnosis.",
+manuscripts-papers,Effect of surfactant on bulk micromachining characteristics of NH 2OH+KOH Avvaru Venkata Narasimha R,"Abstract—Silicon anisotropic etching is the main process of 
+silicon 
+bulk 
+micromachining 
+to 
+fabricate 
+microelectro-
+mechanical 
+systems 
+(MEMS) 
+components 
+such 
+as 
+microcantilevers, diaphragms, mesa structures, etc. In this 
+process, one of the most used anisotropic etchants is potassium 
+hydroxide (KOH). Recently this etchant was modified by addition 
+of NH2OH to alter the etching characteristics to obtain high etch 
+rate and improved etch selectivity between silicon and thermal 
+oxide (SiO2). In this work, we have studied the effect of surfactant 
+Triton X-100 on bulk micromachining characteristics of NH2OH 
++ KOH. Micromachining characteristics are investigated on 
+Si{100} and Si{110} wafers. The addition of surfactant suppresses 
+the undercutting at convex corners and the etch rate of Si{110}. 
+The reduction of undercutting at convex corners is utilized to 
+form mesa structures, while significantly low etch rate of Si{110} 
+is exploited for the formation 45° slanted sidewalls (i.e., 
+micromirror) by exposing {110} sidewalls at the mask edges 
+aligned along <100> directions on Si{100} surface.",
+manuscripts-papers,A Gamified System For Remote Non -Invasive Patient Respiratory Monitoring And Pulmonary Rehabilitati,"Abstract—We 
+propose 
+a 
+noninvasive 
+home-based 
+pulmonary rehabilitation system with quantified outcomes to 
+sense and adjust the therapy levels based on patient conditions 
+in a game-based spirometry platform so that the recovery is 
+faster and efficient with an excellent prognosis. This platform 
+is meant for patients with moderate to very severe chronic 
+respiratory diseases.  We report the development of a digital 
+differential pressure sensor spirometer with quantified 
+outputs and interface its output to a gamified platform. The 
+game creates an engaging therapy to improve respiratory 
+conditions with quantified outcomes while being monitored 
+remotely by a physician who could monitor adherence and 
+progress and adjust the therapy levels for faster recovery with 
+excellent prognosis. We expect that this device will be a 
+potential tool in active pulmonary rehabilitation in clinics.",
+manuscripts-papers,"Smart Farming Solution: Integrating IoT, Cloud Services, and Direct Messaging for Enhanced Agricultu","Abstract— The Smart Farming Solution (SFS) outlined in 
+this paper represents a pioneering approach to modern 
+agricultural management, addressing the evolving challenges 
+faced by farmers through the integration of cutting-edge 
+technologies. By 
+harnessing Internet 
+of 
+Things 
+(IoT) 
+technologies, Raspberry Pi, and cloud services, SFS provides 
+real-time monitoring and actionable insights to farmers, 
+enabling remote monitoring of field conditions and precise 
+control over irrigation systems via a user-friendly web interface. 
+SFS employs an array of sensors including soil moisture sensors, 
+NPK sensors and DHT11 sensors for environmental monitoring, 
+managed by Raspberry Pi and processed through Django, with 
+data storage facilitated by an AWS database for scalability and 
+reliability. Notably, the system incorporates a direct messaging 
+feature to alert farmers of critical conditions such as low soil 
+moisture levels or adverse weather forecasts, empowering them 
+to respond promptly and make informed decisions to mitigate 
+risks. By facilitating timely alerts and actionable insights, SFS 
+enhances farm management practices, optimizes resource 
+utilization, 
+and 
+promotes 
+sustainability 
+in 
+agriculture. 
+Ultimately, the integration of IoT technologies, cloud services, 
+and direct messaging capabilities in SFS represents a significant 
+advancement in modern agriculture, enabling farmers to adapt 
+efficiently and sustainably to changing conditions, thereby 
+ensuring the continued success of agricultural operations.",
+manuscripts-papers,"Security Measures for Smart Monitoring Devices in e-Agriculture Pragya Goswamy1,2, Rupanjali Baurai2","Abstract--- The up surge in global population, increasing demand for food production and changing climate has led to an 
+urgent need for changing the agricultural practices and production system from conventional to smarter and more efficient e-
+Agriculture system integrating the advanced technologies. For smart monitoring of farm, sensor networks are being used to 
+remotely monitor and collect information about soil, crop and weather characteristics. If smart monitoring devices are fully 
+adopted in agricultural field, then it will be an ever-open research area to analyze and study the distinctive features of security 
+and privacy in context of Agriculture. Present paper analyses various security threats and measures for smart monitoring 
+devices in e-Agriculture and suggests a framework which can diagnose, identify and prevent e-agriculture devices from 
+malicious attacks.",
+manuscripts-papers,Abstract— We have realized a stress -compensated Film Bulk Acoustic Wave Resonators (FBAR) based on ,"Abstract— We have realized a stress-compensated Film Bulk 
+Acoustic Wave Resonators (FBAR) based on bilayer thin films. 
+The bilayer stack consists of Barium strontium titanate 
+Ba0.6Sr0.4TiO3 (BST) and Zinc oxide (ZnO) piezoelectric thin films. 
+Stress-compensation is achieved by using a bilayer combination of 
+thin films, where BST residual has tensile stress in nature and ZnO 
+residual has compressive stress. The FBAR stack with 
+Si/SiO2/Pt/BST/ZnO/Pt layers achieves a high-quality factor (Q) 
+of ~1001, a figure of merit (FOM) of ~3.5, and an effective coupling 
+coefficient (𝒌𝒆𝒇𝒇
+𝟐
+) of ~0.73%, ideal for self-actuation in advanced 
+devices. The bilayer based resonator is stress compensated, 
+reliable and more robust. This method also facilitates a new means 
+for realization of stress compensated FBAR devices. Such 
+BST/ZnO bilayer based resonators are miniaturized, highly 
+reliable and prominently usable for environmental sensing and   
+tunable microwave filter applications.",
+manuscripts-papers,NanoMediTrack: AI-Enhanced System for Dynamic Digestive Health Monitoring 1stSakinam Shivani Dept. o,"Abstract—This project aims to develop a novel healthcare
+solution utilizing advanced nano sensor technology, AI, and ML
+algorithms for comprehensive monitoring of digestive health and
+medication adherence. The proposed system includes a digestible
+nano sensor embedded in medication, capable of transmitting
+real-time data on internal pH levels, temperature, and gastric
+secretions to a wearable patch. The patch communicates this data
+wirelessly to a mobile device via Bluetooth or LoRA, enabling
+continuous monitoring and feedback to the user while imple-
+menting blockchain framework for information security. AI and
+ML algorithms analyze the collected data to provide personalized
+insights, predictive modeling for health outcomes, and decision
+support for medication adherence. This innovative approach
+not only enhances diagnostic capabilities through non-invasive
+endoscopy but also promotes timely and accurate medication
+intake, ultimately improving patient care and health outcomes.",
+manuscripts-papers,Job-Pilot: Streamlined Job Application Automation Santhosh Y M Dept. CSE BMS Institute of Technology,"Abstract- Job Pilot is an endeavor aiming to revolutionize the job 
+search landscape through the development of an advanced 
+automated system. Leveraging cutting-edge Natural Language 
+Processing (NLP) techniques, JobPilot offers a comprehensive 
+solution that streamlines multiple facets of the job-seeking 
+process. By seamlessly parsing and extracting crucial information 
+from uploaded resumes, the system constructs a centralized 
+database for efficient storage and retrieval. Employing 
+sophisticated algorithms, JobPilot meticulously matches job 
+seekers with pertinent opportunities sourced from a plethora of 
+platforms, thus minimizing manual effort and enhancing the 
+efficacy of recruitment procedures. Moreover, JobPilot's 
+automation capabilities extend to the application process itself, 
+where it autonomously populates application forms, awaiting final 
+approval from users.",
+manuscripts-papers,XXX-X-XXXX-XXXX-X/XX/$XX.00 ©20XX IEEE A Microfluidics Based Sucrose Sensing Technique For On-field ,"Abstract— Technological interventions are becoming 
+apparent in the harvest of sugarcane crop because of losses in 
+the production of sugar. Research initiatives at present range 
+from using Satellite images for monitoring crop maturity based 
+on NDVI to assessing the content of sucrose by timely collection 
+of crop samples, then clarifying them traditionally for 
+measurement of sugar concentration using a Polarimeter, which 
+is expensive, time-consuming and requires skilled labor. We 
+conceptualized 
+a 
+simple-to-use 
+portable 
+optofluidic 
+measurement device, based on the GOD-POD enzymatic 
+reaction of glucose to get colorimetric output in the visible 
+spectrum range. We report a new design where the difference in 
+free glucose and total glucose (derived from sucrose) can be 
+measured at 505 nm and can also be applicable to various other 
+assays that requires the measurement of the difference in optical 
+density of the target constituent (sucrose of 10 -25 % in our case) 
+and interfering constituent (glucose) in a single step. We 
+optimized the GOD-POD experiment method to get repeatable 
+optical Absorbance within a pathlength of 2 mm for the analysis 
+concentration of 10-25 mg/ml which is the dynamic range of 
+sucrose in the crop. We designed, fabricated and characterized 
+a new microfluidic platform with a 90 % optical transmission, 
+having a 200 µm pathlength, 3 mm window, a proof-of-concept, 
+Lab-on-chip based sensing device to detect the quality of 
+sugarcane crop (Pol value/sucrose concentration) using only 
+microliter volume of juice sample within the range of 
+concentration that is obtained using traditional methods.",
+manuscripts-papers,IoT Enabled Dual -Sensor System for Optimizing Light and Moisture Levels for Agriculture S N Harini ,"Abstract—The objective of this research is to integrate 
+feasible sensors with cloud technology to provide a sophisticated 
+and data-driven solution towards achieving an economically 
+viable and sustainable future. The system comprises a 
+synergistic duo of an LDR (Light Dependent Resistor) and Soil 
+Moisture sensor that intelligently ascertain the requisite light 
+intensity and soil hydration levels. This data is communicated 
+via a Wi-Fi-enabled microcontroller to a cloud infrastructure 
+made accessible easily on any smart device. The system is 
+automated to administer the optimal amount of artificial 
+illumination and irrigation based on real-time analytics. In 
+essence, this cloud-based architecture facilitates a competent 
+agricultural monitoring system delivering a self-sustainable and 
+cost-effective solution.",
+manuscripts-papers,Machine Learning -Based Classification of Carotid Artery Auscul tation for Early Screening of Cerebr,"Abstract—Early detection of cerebrovascular diseases is 
+crucial for improving patient outcomes and reducing the risk 
+of severe complications. This study proposes a machine 
+learning-based approach for classifying Doppler audio signals 
+obtained from the common carotid artery, aiming to develop a 
+non-invasive screening tool. We extracted a comprehensive set 
+of time-domain, frequency-domain, and time-frequency 
+domain features from 432 Doppler audio signals, each lasting 
+10 seconds. Feature selection and importance analysis were 
+performed using a random forest (RF) model and principal 
+component analysis (PCA) for dimensionality reduction. We 
+evaluated various machine learning models, including linear 
+regression (LR), decision trees (DT), RF, XGBoost (XGB) and 
+support vector machines (SVM). The ensemble methods, 
+particularly RF and XGB, achieved the highest performance 
+with an average accuracy of 95%, precision of 92%, recall of 
+94%, specificity of 97% and F1 score of 93%. These findings 
+demonstrate the potential of machine learning techniques for 
+non-invasive early screening of cerebrovascular diseases, 
+paving the way for advancements in digital healthcare 
+solutions.",
+manuscripts-papers,"-307X © 2016 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permiss","Abstract— This paper explores and integrates various sensors and Internet of Things technology within a park 
+environment for the empowerment of environmental and weather monitoring, efficient lighting, security, and 
+surveillance monitoring. This empowerment is incorporated with sensors to monitor things like air quality, temperature, 
+water level, and even foot traffic to optimize the park’s functionality and enhance the visitor experience. 
+Microprocessor-based Arduino, ESP32, and ESP8266 controllers are the key processing units of the sensor network. 
+The internet of things technology enhances efficiency, reduces costs, improves decision-making, and enhances the 
+quality of life in the park. The IoT platform allows users to collect, analyze, and visualize data from IoT devices and 
+sensors in real-time and pass it to the cloud. A mobile application often allows users to monitor the information passing 
+by IoT platform via the cloud. By building digital platforms into Smart Park, planning events and engaging with visitors 
+becomes much easier in a secured environment. In addition, the design of Adventure Park focuses on developing 
+environmental preservation with green technology like solar-powered lights and water conservation. This makes the 
+park sustainable and sets an example for environmentally conscious urban development. The prototype model is 
+created and provided for validation.",
+manuscripts-papers,"Model Selection to Identify Touch Sensation Types Deepika Gupta, Sachin, Anuj Nandanwar, Deepak Sach","Abstract—The present work focuses on the identification of
+different touch sensations by a fabricated skin sensor using
+theoretical models. These models relate various human skin
+contact motions (holding, stretching, bending, tapping, and
+sliding) to change in electrical properties. The electrical and
+mechanical characteristics of a skin sensor based on conductive
+liquid metal filled with elastomers, influenced by the deformation
+of the material, are studied during real-time experiments for
+various touch motions. To determine which mathematical model
+is best suited for comprehending the specific touch actions, we
+examine two models that relate the electrical parameters (such
+as resistance and capacitance) with the strain (a mechanical
+parameter).
+Index
+Terms—Microfluidic
+sensor,
+capacitance-strain,
+resistance-strain and touch sensation.
+I.",
+manuscripts-papers,Non-enzymatic Glucose Detection of Salivary Glucose Range using ZnO - MoS 2 Nanocomposite Heterostru,"Abstract 
+Diabetic mellitus is one of the most happening diseases 
+in our society and people needs to control the glucose 
+level, to keep their diabetic level within control. 
+Normally, glucose level is measured by blood but now 
+a day more emphasis is being given on non-invasive 
+glucose monitoring techniques. This paper presents, a 
+nonenzymatic approach to detect the salivary glucose 
+levels, as a noninvasive technique of Diabetes Mellitus 
+monitoring. Salivary glucose range was tested using 
+fabricated electrode platform. Microelectrodes were 
+realized on silicon wafers. Accordingly, with this 
+system, 
+ 
+ZnO-MoS2 
+composite 
+nanoparticle 
+heterostructure were synthesized, as the sensing layer to 
+utilize their unique catalytic property, to oxidize salivary 
+glucose non-enzymatically.",
+manuscripts-papers,"A Novel Method of Generating Complex SineWave in Automative Sensing Application Kaluri V. Rangarao, ","Abstract—Machine learning has advanced rapidly,
+specifically in the application of automotive sensing
+[1]. One of the significant challenges in this area is
+to accurately estimate the range and direction of tar-
+gets while using FMCW radars in moving vehicles.
+To address this challenge, it is necessary to compute
+the gold-Fourier Kaluri (gFK) method efficiently. We
+propose a novel method for generating complex sine
+waves using a 2nd order auto-regressive model, which
+requires just two multiplications and two additions.
+These sine waves are used to evaluate the gFK objective
+function at any given frequency and to scale the peak.
+Our lean computational method achieves the goal of
+implementing simple controllers, and we also compare
+it with conventional computation to report on our
+findings.
+I. Smart Sensing of Objects
+The main goal of this work is to quickly and accurately
+sense, perceive, and understand as a scene matrix [1] S(t)
+( see Figure 8a ) in order to meet the growing demand for
+self-driving cars and driver assistance.
+A. Lean and Efficient
+Advances in Machine Learning have a significant impact
+on automotive sensing. This is increasingly used in various
+applications, such as sensing and characterizing objects
+in their environment. In applications such as automotive
+sensing, the Direction of Arrival θ (DOA) relies on FMCW
+radar (λ ≈4mm) using the integrated radar and compute
+elements in a single chip [2]. Accurately determining the
+return Doppler frequency is crucial for estimating the
+target range. These applications are discussed in [3] and
+[4]. However, conventional FFT provides accuracy lim-
+ited by the number of samples taken. The gold-Fourier
+Kaluri (gFK) [5] method provides the exact peak and
+phase to overcome this limitation. Usually, more than
+two antenna elements are used, but in this application,
+four(m = 4) elements were used, increasing the computing
+burden. Thankfully, this efficient computing method comes
+in handy.
+B. Numerical Complexity
+To appreciate and understand the numerical complexity,
+we want to draw your attention to the inset of Figure",
+manuscripts-papers,AutoBill: An Integrated AI-Powered Autonomous Checkout System *Revolutionizing Retail: Enhancing Sho,"Abstract—AutoBill represents a paradigm shift in retail check-
+out systems, introducing an AI-powered autonomous solution that
+leverages computer vision and machine learning for a seamless
+shopping experience. Emphasizing speed and safety, AutoBill
+minimizes human interactions through real-time object detection,
+weight measurement, and instant bill generation. Developed
+on Edge Impulse with Raspberry Pi integration, the system
+demonstrates precision with a 93.75% accuracy rate, offering
+a glimpse into the future of retail technology with potential
+enhancements such as digital receipts, transaction history, and
+multi-store integration.
+AutoBill, an innovative retail checkout system, blends cutting-
+edge technology with practical design. Using computer vision,
+load cells, and Edge Impulse’s machine learning capabilities, the
+system achieves instant, contact-free checkout. The integration of
+a WS2812B RGB LED strip adds a dynamic visual element, while
+calibration ensures accurate weight measurement. AutoBill’s
+success paves the way for future retail technology, envisioning
+features like digital receipts and multi-store analytics, signaling
+a transformative evolution in the retail landscape.
+I.",
+manuscripts-papers,Application of innovative electric field tri-axial sensor and spherical sources to the detection of ,"Abstract— This paper presents an approach to Electric Field 
+(EF) imaging, similar to magnetic nondestructive testing and 2D 
+magnetic imaging. While magnetic imaging is well-established 
+with numerous applications, EF imaging, particularly in the 
+low-frequency range, has seen limited development. The 
+proposed setup utilizes four spherical EF sources to generate a 
+configurable electric field and detect non-conductive anomalies 
+by measuring disturbances in this field. The system includes a 
+high-dynamic range EF sensor and signal processing to 
+interpret the induced secondary fields. Initial experimental 
+results demonstrate the ability to image a non-conductive object 
+- for understanding purpose - and the ability to detect buried 
+objects - as a practical example. Finite-element-method (FEM) 
+simulations were conducted to validate the detection principle 
+and support the experimental findings.",
+manuscripts-papers,Implementation of Decision Tree Algorithm to Detect Human Stress D.Krishna Reddy D.Sony Chandana Man,"Abstract— Stress is the physiological and psychological 
+reaction of the body to demands or pressures from outside 
+sources. Stress can interfere with sleep, making it harder to sleep 
+or stay asleep. On the other hand, insufficient sleep can make 
+people more stressed, leading to a vicious cycle of stress and 
+sleeplessness. Stress management and the adoption of restful 
+sleeping practices are crucial for general well-being. Current 
+stress detection models mainly focus on in- person interactions. 
+These models have limitations such as narrow in scope and rely 
+heavily on face-to- face or online interactions, which can lead to 
+subjective interpretations and privacy issues. Additionally, they 
+lack in crucial physiological signals of stress, cannot predict 
+future stress patterns, and may not offer timely interventions. This 
+paper presents a novel framework for stress detectionduring sleep, 
+leveraging parameters such as snoring range, respiration rate, 
+body temperature, limb movement rate, blood oxygen levels, eye 
+movement, and heart rate. These parameters are collected from 
+various wearables and fitness trackers that are used in day-to-day 
+life. The proposed system employs a Decision Tree algorithm, to 
+examine data related to sleep patterns. Using this algorithm, the 
+system can predict the levels of stress individuals may experience 
+based on sensor data. This approach is more comprehensive for 
+detecting and managing stress. The existingmethods are based on 
+communication (such as text analysis), proved an accuracy of 
+60%. Whereas the machine learning model for stress detection 
+proposed in this project has an accuracy of 97%. 
+I.",
+manuscripts-papers,Simulation study comparing two passive micro- mixture designs for the enrichment of mixing efficienc,"Abstract— The objective of this study is to evaluate and 
+compare the output efficiency of two micro-mixtures based on 
+the inlet flow rate, diffusion coefficient, and device design. The 
+micro-mixtures were designed in the 2-dimensional platform 
+of Multiphysics software. The inlet flow rate was considered 
+as 1µL/min, 5 µL/min, and 10 µL/min respectively, and the 
+diffusion coefficient was considered as 15.3 X 10-10 m2/s. Based 
+on these input parameters the output parameters like velocity 
+profile, pressure profile, and resultant concentration after 
+mixing were computed using stationary study.  The mixing 
+efficiency for both designs was then calculated from the 
+output results. It is seen that the design having constricted 
+pillars at different locations across the device has higher 
+mixing efficiency compared to its similar counterparts 
+without pillars.    This low flow rate passive micro-mixtures 
+with high mixing efficiencies are useful for accurate control 
+and observation of reaction dynamics in biological and 
+chemical studies for ""lab-on-a-chip"" applications.",
+manuscripts-papers,Utilization of Energy Efficient Clustering Protocol for Smart City Application Tushar Suresh Mote1 D,"Abstract— The rapid development of smart cities requires 
+efficient management of resources and infrastructure. 
+One of the critical aspects is the deployment of wireless 
+sensor networks (WSNs) for various applications, such as 
+environmental monitoring, traffic management, and 
+energy distribution. This paper explores the utilization of 
+energy-efficient clustering protocols to enhance the 
+performance and lifespan of WSNs in smart city 
+applications. We compare the performance of k-means 
+clustering and the Adaptive Threshold Residual Energy 
+Efficient Clustering Protocol (ATREEN) based on 
+metrics such as energy consumption and the number of 
+alive nodes over time. Our results demonstrate that 
+ATREEN outperforms compared to K-means clustering 
+protocol. The choice of protocol depends on the specific 
+requirements and constraints of the smart city 
+environment.",
